@@ -1,10 +1,15 @@
 import { Word } from "../app/types/Word";
 
-export default function WordDisplay(){
+type Props = {
+  word: Word;
+  showMeaning: boolean;
+}
+export default function WordDisplay({word, showMeaning}: Props){
 
     return(
       <div>
-        <p>apple</p>
+        <p>{word.english}</p>
+        <p>{word.japanese}</p>
         
 
       </div>
