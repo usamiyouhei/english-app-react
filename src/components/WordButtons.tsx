@@ -2,12 +2,12 @@ import { Word } from "../app/types/Word";
 
 type Props = {
   nextWord: () => void;
-
+  setShowMeaning: (value: boolean) => void;
 }
-export default function WordButtons({nextWord} : Props) {
+export default function WordButtons({ setShowMeaning, nextWord} : Props) {
   return (
     <div>
-      <button>意味を表示</button>
+      <button onClick={() => setShowMeaning(true)}>意味を表示</button>
       <button onClick={nextWord}>次の単語</button>
     </div>
   )
