@@ -1,10 +1,14 @@
 import { Word } from "../app/types/Word";
 
-export default function WordButtons() {
+type Props = {
+  nextWord: () => void;
+
+}
+export default function WordButtons({nextWord} : Props) {
   return (
     <div>
       <button>意味を表示</button>
-      <button>次の単語</button>
+      <button onClick={nextWord}>次の単語</button>
     </div>
   )
 }

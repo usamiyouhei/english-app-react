@@ -7,21 +7,25 @@ import { Word } from "../app/types/Word";
 
 
 export default function WordApp() {
-  const [word, SetWord] = useState<Word[]>([
-    { english:"apple" , japanese:""},
-    { english:"banana" , japanese:""},
-    { english:"coffee" , japanese:""},
-    { english:"tea" , japanese:""},
+  const [words, SetWords] = useState<Word[]>([
+    { english:"apple" , japanese:"りんご"},
+    { english:"banana" , japanese:"バナナ"},
+    { english:"coffee" , japanese:"コーヒー"},
+    { english:"tea" , japanese:"お茶"},
   ])
 
   const [currentIndex, setCurrentIndex] = useState(0)
   const [showMeaning, setShowMeaning] = useState(false)
 
+  const nextWord = () => {
+    setCurrentIndex((currentIndex + 1) % words.length)
+  }
+
   return(
     <div>
       <h1>English Word App</h1>
-      <WordDisplay></WordDisplay>
-      <WordButtons></WordButtons>
+      <WordDisplay word={words[currentIndex]}></WordDisplay>
+      <WordButtons nextWord={nextWord}></WordButtons>
       <WordForm></WordForm>
     </div>
   )
