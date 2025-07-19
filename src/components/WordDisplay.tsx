@@ -9,7 +9,8 @@ export default function WordDisplay({word, showMeaning}: Props){
     return(
       <div>
         <p>{word.english}</p>
-        <p>{word.japanese}</p>
+        { showMeaning && <p>{word.japanese}</p>}
+        
         
 
       </div>

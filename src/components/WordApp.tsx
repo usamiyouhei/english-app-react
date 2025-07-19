@@ -19,14 +19,19 @@ export default function WordApp() {
 
   const nextWord = () => {
     setCurrentIndex((currentIndex + 1) % words.length)
+    setShowMeaning(false)
+  }
+
+  const addWord = (newWord: Word) => {
+     SetWords([...words, newWord])
   }
 
   return(
     <div>
       <h1>English Word App</h1>
-      <WordDisplay word={words[currentIndex]}></WordDisplay>
-      <WordButtons nextWord={nextWord}></WordButtons>
-      <WordForm></WordForm>
+      <WordDisplay word={words[currentIndex]} showMeaning={showMeaning}></WordDisplay>
+      <WordButtons setShowMeaning={setShowMeaning} nextWord={nextWord}></WordButtons>
+      <WordForm addWord={addWord}></WordForm>
     </div>
   )
 }
