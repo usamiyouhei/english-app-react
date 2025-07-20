@@ -1,36 +1,78 @@
 "use client"
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import WordDisplay from "../components/WordDisplay";
 import WordButtons from "../components/WordButtons";
 import WordForm from "../components/WordForm";
 import { Word } from "../app/types/Word";
 
+const STORAGE_KEY = "my-word-list";
 
 export default function WordApp() {
-  const [words, SetWords] = useState<Word[]>([
+  const defaultWords: Word[] = [
     { english:"apple" , japanese:"りんご"},
     { english:"banana" , japanese:"バナナ"},
     { english:"coffee" , japanese:"コーヒー"},
     { english:"tea" , japanese:"お茶"},
-  ])
+  ]
 
+  const [words, setWords] = useState<Word[]>(defaultWords)
   const [currentIndex, setCurrentIndex] = useState(0)
-  const [showMeaning, setShowMeaning] = useState(false)
+  const [showMeaning, setShowMeaning] = useState(false);
 
+// localstrageから読み込み（初回のみ）
+  useEffect(() => {
+    const saved = localStorage.getItem(STORAGE_KEY)
+    if(saved) {
+      setWords(JSON.parse(saved))
+    }
+  }, [])
+
+  // 単語リストが変わる度に保存
+  useEffect(() => {
+    localStorage.setItem(STORAGE_KEY, JSON.stringify(words))
+  }, [words])
+
+// 次の単語
   const nextWord = () => {
     setCurrentIndex((currentIndex + 1) % words.length)
     setShowMeaning(false)
   }
 
+  // 前の単語
+  const prevWord = () =>{
+    setCurrentIndex((currentIndex - 1 + words.length) % words.length)
+    setShowMeaning(false)
+  }
+
+  // 単語追加
   const addWord = (newWord: Word) => {
-     SetWords([...words, newWord])
+    setWords([...words, newWord])
+  }
+
+  // ランダム表示
+  const randomWord = () => {
+     const randomIndex = (Math.floor(Math.random() * words.length));
+    setCurrentIndex(randomIndex);
+    setShowMeaning(false);
+  }
+
+  // リセット
+  const resetWord = () => {
+    setCurrentIndex(0);
+    setShowMeaning(false)
   }
 
   return(
     <div>
-      <h1>English Word App</h1>
+      <h1 className="text-4xl font-bold text-center mt-10">English Word App</h1>
       <WordDisplay word={words[currentIndex]} showMeaning={showMeaning}></WordDisplay>
-      <WordButtons setShowMeaning={setShowMeaning} nextWord={nextWord}></WordButtons>
+      <WordButtons 
+        setShowMeaning={setShowMeaning} 
+        prevWord={prevWord}
+        nextWord={nextWord}
+        randomWord={randomWord}
+        resetWord={resetWord}
+        ></WordButtons>
       <WordForm addWord={addWord}></WordForm>
     </div>
   )
