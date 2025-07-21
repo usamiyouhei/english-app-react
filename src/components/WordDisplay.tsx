@@ -8,7 +8,13 @@ type Props = {
 export default function WordDisplay({word, showMeaning}: Props){
 
     return(
-      <div className="text-center mt-10">
+      <motion.div 
+        key={word.english}
+        initial={{ opacity: 0, y: 20 }}
+        animate={{ opacity: 1, y: 0 }}
+        transition={{ duration: 0.3 }}
+        className="text-center mt-10"
+        >
         <h1
           className="text-4xl font-bold text-gray-800 "
         >
@@ -18,6 +24,6 @@ export default function WordDisplay({word, showMeaning}: Props){
         
         
 
-      </div>
+      </motion.div>
     )
 }
