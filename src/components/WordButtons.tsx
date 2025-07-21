@@ -10,8 +10,8 @@ type Props = {
 }
 export default function WordButtons({ setShowMeaning, nextWord, prevWord, randomWord, resetWord, toggleLearned} : Props) {
   return (
-    <div
-      className="mt-6 flex flex-wrap justify-center gap-4">
+    <div>
+    <div className="mt-6 flex flex-wrap justify-center gap-4">
       <button 
         onClick={() => setShowMeaning(true)}
         className="px-4 py-2 rounded-2xl shadow-md bg-blue-500 text-white hover:bg-blue-600 transition"
@@ -22,16 +22,24 @@ export default function WordButtons({ setShowMeaning, nextWord, prevWord, random
         >← 戻る</button>
       <button 
         onClick={nextWord}
-        className="px-4 py-2 rounded-2xl shadow-md bg-green-500 text-white hover:bg-green-600 transition">次へ →</button>
+        className="px-4 py-2 rounded-2xl shadow-md bg-green-500 text-white hover:bg-green-600 transition">
+          次へ →
+      </button>
+      </div>
+
+    <div className="mt-6 flex flex-wrap justify-center gap-4">
       <button 
         onClick={randomWord}
-        className="px-4 py-2 rounded-2xl shadow-md bg-yellow-500 text-white hover:bg-yellow-600 transition">🎲 ランダム</button>
+        className="px-4 py-2 rounded-2xl shadow-md bg-yellow-500 text-white hover:bg-yellow-600 transition">
+          🎲 ランダム
+      </button>
       <button 
         onClick={resetWord}
         className="px-4 py-2 rounded-2xl shadow-md bg-red-500 text-white hover:bg-red-600 transition">🔄 リセット</button>
       <button 
         onClick={toggleLearned}
         className="px-4 py-2 rounded-2xl shadow-md bg-purple-500 text-white hover:bg-purple-600 transition"> ✅ 学習済み</button>
+    </div>
     </div>
   )
 }

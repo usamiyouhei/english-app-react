@@ -3,6 +3,7 @@ import { useState, useEffect } from "react";
 import WordDisplay from "../components/WordDisplay";
 import WordButtons from "../components/WordButtons";
 import WordForm from "../components/WordForm";
+import LearnedList from "../components/LearnedList";
 import { Word } from "../app/types/Word";
 
 const STORAGE_KEY = "my-word-list";
@@ -69,6 +70,9 @@ export default function WordApp() {
     setWords(newWords)
   }
 
+  // チェック済みリスト表示
+  const learnedWords = words.filter((word) => word.isLearned)
+
   return(
     <div>
       <h1 className="text-4xl font-bold text-center mt-10">English Word App</h1>
@@ -82,6 +86,8 @@ export default function WordApp() {
         toggleLearned={toggleLearned}
         ></WordButtons>
       <WordForm addWord={addWord}></WordForm>
+
+      <LearnedList learnedWords={learnedWords}></LearnedList>
     </div>
   )
 }
