@@ -62,6 +62,13 @@ export default function WordApp() {
     setShowMeaning(false)
   }
 
+  // チェック機能
+  const toggleLearned = () => {
+    const newWords = [...words]
+    newWords[currentIndex].isLearned = !newWords[currentIndex].isLearned;
+    setWords(newWords)
+  }
+
   return(
     <div>
       <h1 className="text-4xl font-bold text-center mt-10">English Word App</h1>
@@ -72,6 +79,7 @@ export default function WordApp() {
         nextWord={nextWord}
         randomWord={randomWord}
         resetWord={resetWord}
+        toggleLearned={toggleLearned}
         ></WordButtons>
       <WordForm addWord={addWord}></WordForm>
     </div>

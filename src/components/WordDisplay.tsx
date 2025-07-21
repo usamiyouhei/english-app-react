@@ -1,5 +1,6 @@
 import { Word } from "../app/types/Word";
-import { motion } from "framer-motion";
+import { AnimatePresence, motion } from "framer-motion";
+import { CheckCircle } from "lucide-react";
 
 type Props = {
   word: Word;
@@ -8,22 +9,40 @@ type Props = {
 export default function WordDisplay({word, showMeaning}: Props){
 
     return(
+      <div>
       <motion.div 
         key={word.english}
         initial={{ opacity: 0, y: 20 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.3 }}
-        className="text-center mt-10"
+        className={`bg-white rounded-2xl shadow-xl p-8 w-80 h-40 mx-auto text-center mt-10 relative"
+                    ${word.isLearned ? "opacity-60" : ""}`}
         >
         <h1
           className="text-4xl font-bold text-gray-800 "
         >
           {word.english}
         </h1>
-        { showMeaning && <p className="mt-4 text-xl text-gray-500">{word.japanese}</p>}
+        <AnimatePresence>
+        { showMeaning && (
+          <motion.p 
+            key="meaning"
+            initial={{ opacity: 0, y: 10 }}
+            animate={{ opacity: 1, y: 0 }}
+            exit={{ opacity: 0, y: 10 }}
+            transition={{ duration: 0.3 }}
+            className="mt-4 text-xl text-gray-500"
+          >
+           {word.japanese}
+          </motion.p>
+      )}
+      {word.isLearned && (
+        <CheckCircle className="absorute top-4 right-4 text-green-500 w-6 h-6"/>
+      )}
         
-        
+        </AnimatePresence>
 
       </motion.div>
+      </div>
     )
 }
