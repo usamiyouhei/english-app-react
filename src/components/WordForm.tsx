@@ -22,25 +22,25 @@ export default function WordForm ({addWord}: Props) {
   return (
     <form
       onSubmit={handleSubmit}
-      className="mt-8 flex flex-wrap justify-center gap-4"
+      className="flex flex-col justify-center md:flex-row gap-2 mt-4"
     >
       <input
         type="text"
         placeholder="English"
         value={english}
         onChange={(e) => setEnglish(e.target.value)}
-        className="border rounded-xl px-4 py-2 w-60 shadow-sm focus:outline-none focus:ring-2 focus:ring-blue-400"
+        className="border rounded-xl px-4 py-2 w-60 shadow-sm focus:outline-none focus:ring-2 focus:ring-blue-400 mx-auto"
         />
       <input
         type="text"
         placeholder="Japanese"
         value={japanese}
         onChange={(e) => setJapanese(e.target.value)}
-        className="border rounded-xl px-4 py-2 w-60 shadow-sm focus:outline-none focus:ring-2 focus:ring-blue-400"
+        className="border rounded-xl px-4 py-2 w-60 shadow-sm focus:outline-none focus:ring-2 focus:ring-blue-400 mx-auto"
       />
       <button
         type="submit"
-        className="bg-blue-500 text-white px-6 py-2 rounded-2xl shadow-md hover:bg-blue-600 transition"
+        className="bg-blue-500 text-white w-60 px-6 py-2 rounded-2xl shadow-md hover:bg-blue-600 transition mx-auto"
         >単語を追加</button>
     </form>
   )
