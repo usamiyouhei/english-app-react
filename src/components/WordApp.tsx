@@ -21,6 +21,7 @@ export default function WordApp() {
   const [words, setWords] = useState<Word[]>(defaultWords)
   const [currentIndex, setCurrentIndex] = useState(0)
   const [showMeaning, setShowMeaning] = useState(false);
+  const [showAllLearned, setShowAllLearned] = useState(false)
 
 // localstrageから読み込み（初回のみ）
   useEffect(() => {
@@ -76,6 +77,7 @@ export default function WordApp() {
 
   // チェック済みリスト表示
   const learnedWords = words.filter((word) => word.isLearned)
+  const displayWords = showAllLearned ? learnedWords : learnedWords.slice(0, 5)
 
   return(
     <div>
@@ -91,7 +93,17 @@ export default function WordApp() {
         ></WordButtons>
       <WordForm addWord={addWord}></WordForm>
 
-      <LearnedList learnedWords={learnedWords}></LearnedList>
+      <LearnedList learnedWords={displayWords}></LearnedList>
+      { learnedWords.length > 10 && (
+        <div className=" text-center mt-4">
+          <button
+          onClick={() => setShowAllLearned(!showAllLearned)}
+          className="px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-600 transition"
+          >
+          { showAllLearned ? "閉じる" : "もっと見る"}
+          </button>
+        </div>
+      ) }
     </div>
   )
 }
