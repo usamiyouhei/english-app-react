@@ -5,6 +5,7 @@ import WordButtons from "../components/WordButtons";
 import WordForm from "../components/WordForm";
 import LearnedList from "../components/LearnedList";
 import { Word } from "../app/types/Word";
+import wordData from "../app/data/word_data_300.json";
 
 const STORAGE_KEY = "my-word-list";
 
@@ -14,6 +15,7 @@ export default function WordApp() {
     { english:"banana" , japanese:"バナナ"},
     { english:"coffee" , japanese:"コーヒー"},
     { english:"tea" , japanese:"お茶"},
+    ...wordData as Word[]
   ]
 
   const [words, setWords] = useState<Word[]>(defaultWords)
@@ -25,7 +27,9 @@ export default function WordApp() {
     const saved = localStorage.getItem(STORAGE_KEY)
     if(saved) {
       setWords(JSON.parse(saved))
-    }
+    } else {
+    setWords(defaultWords)
+  }
   }, [])
 
   // 単語リストが変わる度に保存
