@@ -11,7 +11,7 @@ type Props = {
 export default function WordButtons({ setShowMeaning, nextWord, prevWord, randomWord, resetWord, toggleLearned} : Props) {
   return (
     <div>
-    <div className="mt-6 flex flex-wrap justify-center gap-4">
+    <div className="flex flex-col md:flex-row justify-center items-center gap-2 mt-4">
       <button 
         onClick={() => setShowMeaning(true)}
         className="transition transform active:scale-95 px-4 py-2 rounded-2xl shadow-md bg-blue-500 text-white hover:bg-blue-600 transition"
