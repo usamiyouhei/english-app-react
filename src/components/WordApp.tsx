@@ -6,6 +6,8 @@ import WordForm from "../components/WordForm";
 import LearnedList from "../components/LearnedList";
 import { Word } from "../app/types/Word";
 import wordData from "../app/data/word_data_300.json";
+import SlideMenu from "./SlideMenu";
+import { basicWords } from "@/app/data/basicWords";
 
 const STORAGE_KEY = "my-word-list";
 
@@ -22,6 +24,7 @@ export default function WordApp() {
   const [currentIndex, setCurrentIndex] = useState(0)
   const [showMeaning, setShowMeaning] = useState(false);
   const [showAllLearned, setShowAllLearned] = useState(false)
+  const [category, setCategory] = useState("basic");
 
 // localstrageから読み込み（初回のみ）
   useEffect(() => {
@@ -79,7 +82,28 @@ export default function WordApp() {
   const learnedWords = words.filter((word) => word.isLearned)
   const displayWords = showAllLearned ? learnedWords : learnedWords.slice(0, 5)
 
+  // カテゴリー選択
+  const changeCategory = ( newCategory: string) => {
+      setCategory(newCategory)
+      switch(newCategory) {
+      case "basic":
+        setWords(basicWords);
+        break;
+      case "intermediate":
+        setWords(intermediateWords);
+        break;
+      case "idioms":
+        setWords(idiomsWords);
+        break;
+
+      }
+      setCurrentIndex(0);
+      setShowMeaning(false)
+  }
   return(
+    <div className="relative p-4">
+      <SlideMenu currentCategory={category} onSelect={changeCategory}></SlideMenu>
+
     <div>
       <h1 className="text-4xl font-bold text-center mt-10">English Word App</h1>
       <WordDisplay word={words[currentIndex]} showMeaning={showMeaning}></WordDisplay>
@@ -105,5 +129,6 @@ export default function WordApp() {
         </div>
       ) }
     </div>
+     </div>
   )
 }
