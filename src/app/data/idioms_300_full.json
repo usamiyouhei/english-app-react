@@ -1,6 +1,4 @@
-import { Word } from "../types/Word";
-
-export const idiomsWords: Word[] = [
+[
   {
     "english": "a blessing in disguise",
     "japanese": "一見不運だが実は幸運なこと"

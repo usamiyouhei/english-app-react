@@ -1,7 +1,4 @@
-
-import { Word } from "../types/Word";
-
-export const basicWords: Word[] = [
+[
   {
     "english": "apple",
     "japanese": "りんご"
