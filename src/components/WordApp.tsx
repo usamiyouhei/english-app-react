@@ -5,9 +5,11 @@ import WordButtons from "../components/WordButtons";
 import WordForm from "../components/WordForm";
 import LearnedList from "../components/LearnedList";
 import { Word } from "../app/types/Word";
-import wordData from "../app/data/word_data_300.json";
+import wordData from "../app/data/word_data_unique.json";
 import SlideMenu from "./SlideMenu";
 import { basicWords } from "@/app/data/basicWords";
+import { idiomsWords } from "../app/data/idiomsWords";
+import { intermediateWords } from "../app/data/intermediateWords";
 
 const STORAGE_KEY = "my-word-list";
 

@@ -1,6 +1,6 @@
 import { Word } from "../types/Word";
 
-export const intermediate: Word[] =[
+export const intermediateWords: Word[] =[
   {
     "english": "achieve",
     "japanese": "達成する"
