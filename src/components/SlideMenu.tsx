@@ -25,6 +25,14 @@ export default function SlideMenu({ currentCategory, onSelect} : Props){
         <div className="w-6 h-1 bg-black mb-1"></div> */}
       </button>
 
+      {/* オーバーレイ */}
+      { isOpen && (
+        <div
+          className="fixed inset-0 bg-black bg-opacity-30 z-30"
+          onClick={() => setIsOpen(false)}
+        />
+      )}
+      
       {/* スライドメニュー */}
       <div
         className={`fixed top-0 left-0 h-full w-48 bg-white shadow-lg transform ${ 
