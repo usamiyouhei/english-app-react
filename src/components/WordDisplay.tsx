@@ -43,6 +43,7 @@ export default function WordDisplay({word, showMeaning}: Props){
            {word.japanese}
           </motion.p>
       )}
+          
         
         </AnimatePresence>
       
