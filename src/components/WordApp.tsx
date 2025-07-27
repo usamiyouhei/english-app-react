@@ -7,6 +7,7 @@ import LearnedList from "../components/LearnedList";
 import { Word } from "../app/types/Word";
 import wordData from "../app/data/word_data_unique.json";
 import SlideMenu from "./SlideMenu";
+import ProgressBar from "./ProgressBar";
 import { basicWords } from "@/app/data/basicWords";
 import { idiomsWords } from "../app/data/idiomsWords";
 import { intermediateWords } from "../app/data/intermediateWords";
@@ -102,6 +103,10 @@ export default function WordApp() {
       setCurrentIndex(0);
       setShowMeaning(false)
   }
+
+  const learnedCount = words.filter(word => word.isLearned).length;
+  const totalCount = words.length;
+  const progress = Math.round((learnedCount / totalCount) * 100)
   return(
     <div className="relative p-4">
       <SlideMenu currentCategory={category} onSelect={changeCategory}></SlideMenu>
@@ -109,6 +114,11 @@ export default function WordApp() {
     <div>
       <h1 className="text-4xl font-bold text-center mt-10">English Word App</h1>
       <WordDisplay word={words[currentIndex]} showMeaning={showMeaning}></WordDisplay>
+      <ProgressBar 
+        current={words.filter((w) => w.isLearned).length}
+        total={words.length}
+        label="このカテゴリの達成度"
+        />
       <WordButtons 
         setShowMeaning={setShowMeaning} 
         prevWord={prevWord}
