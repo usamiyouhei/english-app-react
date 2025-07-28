@@ -43,7 +43,17 @@ export default function WordDisplay({word, showMeaning}: Props){
            {word.japanese}
           </motion.p>
       )}
-          
+      { word.example && showMeaning && (
+          <motion.p
+            key={example}
+            initial={{ opacity: 0, y: 5 }}
+            animate={{ opacity: 1, y:0 }}
+            exit={{ opacity: 0, y:5 }}
+            >
+            例:{word.example}
+          </motion.p>
+
+      )}
         
         </AnimatePresence>
       
