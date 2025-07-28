@@ -15,21 +15,22 @@ export default function WordDisplay({word, showMeaning}: Props){
         initial={{ opacity: 0, y: 20 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.3 }}
-        className={`bg-white rounded-2xl shadow-xl p-8  h-40 w-full max-w-xs mx-auto text-center mt-10 relative
+        className={`bg-white rounded-2xl shadow-xl p-8  h-50 w-full max-w-sm mx-auto text-center mt-10 relative
                     ${word.isLearned ? "opacity-60" : ""}`}
         >
           <div className="relative flex justify-center">
         <h1
-          className="text-4xl font-bold text-gray-800"
+          className="text-3xl md:text-5xl font-bold text-gray-800"
         >
           {word.english}
             </h1>
           {word.isLearned && (
         <CheckCircle className="absolute -top-2 -right-4 text-green-500 w-6 h-6"/>
       )}
-      
-          </div>
+        </div>
 
+        {/* 意味・例文スペース */}
+        <div className="min-h-[80px] mt-4 flex flex-col justify-center items-center">
         <AnimatePresence>
         { showMeaning && (
           <motion.p 
@@ -38,14 +39,14 @@ export default function WordDisplay({word, showMeaning}: Props){
             animate={{ opacity: 1, y: 0 }}
             exit={{ opacity: 0, y: 10 }}
             transition={{ duration: 0.3 }}
-            className="mt-4 text-xl text-gray-500"
+            className="mt-4 text-xl text-gray-500 break-words max-w-md mx-auto text-center "
           >
-           {word.japanese}
+            {word.japanese}
           </motion.p>
       )}
       { word.example && showMeaning && (
           <motion.p
-            key={example}
+            key="example"
             initial={{ opacity: 0, y: 5 }}
             animate={{ opacity: 1, y:0 }}
             exit={{ opacity: 0, y:5 }}
@@ -54,9 +55,8 @@ export default function WordDisplay({word, showMeaning}: Props){
           </motion.p>
 
       )}
-        
         </AnimatePresence>
-      
+        </div>
 
       </motion.div>
       </div>
