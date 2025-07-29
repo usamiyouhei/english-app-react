@@ -28,6 +28,7 @@ export default function WordApp() {
   const [showMeaning, setShowMeaning] = useState(false);
   const [showAllLearned, setShowAllLearned] = useState(false)
   const [category, setCategory] = useState("basic");
+  const [showExample, setShowExample] =useState(false);
 
 // localstrageから読み込み（初回のみ）
   useEffect(() => {
@@ -120,12 +121,16 @@ export default function WordApp() {
         label="このカテゴリの達成度"
         />
       <WordButtons 
+        word={words[currentIndex]}
         setShowMeaning={setShowMeaning} 
         prevWord={prevWord}
         nextWord={nextWord}
         randomWord={randomWord}
         resetWord={resetWord}
         toggleLearned={toggleLearned}
+        setShowExample={setShowExample}
+        showExample={showExample}
+        showMeaning={showMeaning}
         ></WordButtons>
       <WordForm addWord={addWord}></WordForm>
 
