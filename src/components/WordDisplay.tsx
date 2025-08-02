@@ -4,9 +4,10 @@ import { CheckCircle } from "lucide-react";
 
 type Props = {
   word: Word;
+  showExample: boolean;
   showMeaning: boolean;
 }
-export default function WordDisplay({word, showMeaning}: Props){
+export default function WordDisplay({word, showMeaning, showExample}: Props){
 
     return(
       <div>
@@ -15,7 +16,7 @@ export default function WordDisplay({word, showMeaning}: Props){
         initial={{ opacity: 0, y: 20 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.3 }}
-        className={`bg-white rounded-2xl shadow-xl p-8  h-50 w-full max-w-sm mx-auto text-center mt-10 relative
+        className={`bg-white rounded-2xl shadow-xl p-8  h-56 w-full max-w-sm mx-auto text-center mt-10 relative
                     ${word.isLearned ? "opacity-60" : ""}`}
         >
           <div className="relative flex justify-center">
@@ -39,12 +40,12 @@ export default function WordDisplay({word, showMeaning}: Props){
             animate={{ opacity: 1, y: 0 }}
             exit={{ opacity: 0, y: 10 }}
             transition={{ duration: 0.3 }}
-            className="mt-4 text-xl text-gray-500 break-words max-w-md mx-auto text-center "
+            className="mt-4 text-xl text-gray-500 break-words max-w-md mx-auto mb-6 text-center "
           >
             {word.japanese}
           </motion.p>
       )}
-      { word.example && showMeaning && (
+      { showExample && word.example && (
           <motion.p
             key="example"
             initial={{ opacity: 0, y: 5 }}
