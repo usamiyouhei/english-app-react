@@ -49,12 +49,14 @@ export default function WordApp() {
   const nextWord = () => {
     setCurrentIndex((currentIndex + 1) % words.length)
     setShowMeaning(false)
+    setShowExample(false)
   }
 
   // 前の単語
   const prevWord = () =>{
     setCurrentIndex((currentIndex - 1 + words.length) % words.length)
     setShowMeaning(false)
+    setShowExample(false)
   }
 
   // 単語追加
@@ -114,7 +116,10 @@ export default function WordApp() {
 
     <div>
       <h1 className="text-4xl font-bold text-center mt-10">English Word App</h1>
-      <WordDisplay word={words[currentIndex]} showMeaning={showMeaning}></WordDisplay>
+      <WordDisplay 
+        word={words[currentIndex]} 
+        showMeaning={showMeaning}
+        showExample={showExample}></WordDisplay>
       <ProgressBar 
         current={words.filter((w) => w.isLearned).length}
         total={words.length}

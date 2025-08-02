@@ -41,13 +41,13 @@ export default function WordButtons({ word, setShowExample,setShowMeaning, nextW
       <div className="flex flex-wrap gap-2 justify-center mt-4">
         <button
           onClick={() => setShowMeaning(!showMeaning)}
-          className="bg-blue-500 text-white px-4 py-2 rounded">
+          className="bg-blue-500 text-white px-4 py-2 rounded-2xl ">
           { showMeaning ? "意味を隠す" : "意味を表示"}
         </button>
         {word.example && (
         <button
           onClick={() => setShowExample(!showExample)}
-          className="bg-gray-500 text-white px-4 py-2 rounded">
+          className="bg-gray-500 text-white px-4 py-2 rounded-2xl ">
           { showExample ? "例文を隠す" : "例文を表示"}
         </button>
         )}

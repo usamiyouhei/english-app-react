@@ -1,0 +1,5002 @@
+[
+  {
+    "english": "negotiate",
+    "japanese": "交渉する",
+    "example": "They negotiated a better contract with the supplier."
+  },
+  {
+    "english": "approve",
+    "japanese": "承認する",
+    "example": "The manager approved the budget for next month."
+  },
+  {
+    "english": "schedule",
+    "japanese": "予定を立てる",
+    "example": "Let's schedule the meeting for Tuesday."
+  },
+  {
+    "english": "attend",
+    "japanese": "出席する",
+    "example": "She will attend the marketing conference."
+  },
+  {
+    "english": "reschedule",
+    "japanese": "予定を変更する",
+    "example": "We need to reschedule the appointment."
+  },
+  {
+    "english": "postpone",
+    "japanese": "延期する",
+    "example": "The event was postponed due to rain."
+  },
+  {
+    "english": "cancel",
+    "japanese": "キャンセルする",
+    "example": "They canceled the trip because of the storm."
+  },
+  {
+    "english": "launch",
+    "japanese": "開始する",
+    "example": "The company will launch a new product next week."
+  },
+  {
+    "english": "promote",
+    "japanese": "昇進させる・促進する",
+    "example": "He was promoted to sales manager."
+  },
+  {
+    "english": "transfer",
+    "japanese": "異動する・移す",
+    "example": "She transferred to the Tokyo branch."
+  },
+  {
+    "english": "budget",
+    "japanese": "予算",
+    "example": "The annual budget was increased by 10%."
+  },
+  {
+    "english": "contract",
+    "japanese": "契約",
+    "example": "I signed the contract this morning."
+  },
+  {
+    "english": "invoice",
+    "japanese": "請求書",
+    "example": "Please send the invoice to the accounting department."
+  },
+  {
+    "english": "refund",
+    "japanese": "返金",
+    "example": "They offered a full refund for the damaged item."
+  },
+  {
+    "english": "application",
+    "japanese": "応募書類",
+    "example": "You need to fill out the application form."
+  },
+  {
+    "english": "resume",
+    "japanese": "履歴書",
+    "example": "He submitted his resume yesterday."
+  },
+  {
+    "english": "interview",
+    "japanese": "面接",
+    "example": "I have a job interview this afternoon."
+  },
+  {
+    "english": "candidate",
+    "japanese": "候補者",
+    "example": "We interviewed three strong candidates."
+  },
+  {
+    "english": "department",
+    "japanese": "部署",
+    "example": "She works in the HR department."
+  },
+  {
+    "english": "division",
+    "japanese": "部門",
+    "example": "The sales division exceeded its targets."
+  },
+  {
+    "english": "equipment",
+    "japanese": "設備",
+    "example": "The new office equipment arrived today."
+  },
+  {
+    "english": "facility",
+    "japanese": "施設",
+    "example": "This facility can hold up to 200 people."
+  },
+  {
+    "english": "maintenance",
+    "japanese": "メンテナンス",
+    "example": "The elevator is under maintenance."
+  },
+  {
+    "english": "colleague",
+    "japanese": "同僚",
+    "example": "My colleagues are very supportive."
+  },
+  {
+    "english": "supervisor",
+    "japanese": "上司",
+    "example": "Talk to your supervisor about the problem."
+  },
+  {
+    "english": "executive",
+    "japanese": "重役",
+    "example": "He is a senior executive at the company."
+  },
+  {
+    "english": "representative",
+    "japanese": "代表者",
+    "example": "Our company representative will visit tomorrow."
+  },
+  {
+    "english": "client",
+    "japanese": "顧客",
+    "example": "We value our clients' feedback."
+  },
+  {
+    "english": "consumer",
+    "japanese": "消費者",
+    "example": "Consumers are concerned about product safety."
+  },
+  {
+    "english": "distributor",
+    "japanese": "販売業者",
+    "example": "We found a new distributor for our goods."
+  },
+  {
+    "english": "supplier",
+    "japanese": "供給業者",
+    "example": "The supplier delivered the order on time."
+  },
+  {
+    "english": "warehouse",
+    "japanese": "倉庫",
+    "example": "The products are stored in a warehouse."
+  },
+  {
+    "english": "inventory",
+    "japanese": "在庫",
+    "example": "We do a full inventory every month."
+  },
+  {
+    "english": "shipment",
+    "japanese": "出荷",
+    "example": "The shipment will arrive tomorrow."
+  },
+  {
+    "english": "delivery",
+    "japanese": "配達",
+    "example": "We offer free delivery on orders over $50."
+  },
+  {
+    "english": "order",
+    "japanese": "注文",
+    "example": "I placed an online order yesterday."
+  },
+  {
+    "english": "purchase",
+    "japanese": "購入",
+    "example": "They purchased 50 new laptops."
+  },
+  {
+    "english": "receipt",
+    "japanese": "領収書",
+    "example": "Keep the receipt for your records."
+  },
+  {
+    "english": "balance",
+    "japanese": "残高",
+    "example": "You have an outstanding balance of $200."
+  },
+  {
+    "english": "statement",
+    "japanese": "明細書",
+    "example": "The bank sent the monthly statement."
+  },
+  {
+    "english": "profit",
+    "japanese": "利益",
+    "example": "The company reported record profits."
+  },
+  {
+    "english": "loss",
+    "japanese": "損失",
+    "example": "They suffered a big loss last quarter."
+  },
+  {
+    "english": "revenue",
+    "japanese": "収益",
+    "example": "Our revenue grew 15% this year."
+  },
+  {
+    "english": "expense",
+    "japanese": "費用",
+    "example": "Please record all travel expenses."
+  },
+  {
+    "english": "cost",
+    "japanese": "費用",
+    "example": "The cost of living has gone up."
+  },
+  {
+    "english": "fee",
+    "japanese": "料金",
+    "example": "There is a $10 cancellation fee."
+  },
+  {
+    "english": "salary",
+    "japanese": "給料",
+    "example": "She receives a monthly salary."
+  },
+  {
+    "english": "wage",
+    "japanese": "賃金",
+    "example": "The hourly wage increased by $2."
+  },
+  {
+    "english": "bonus",
+    "japanese": "賞与",
+    "example": "We received a year-end bonus."
+  },
+  {
+    "english": "promotion",
+    "japanese": "昇進・販促",
+    "example": "The promotion campaign was successful."
+  },
+  {
+    "english": "advertisement",
+    "japanese": "広告",
+    "example": "They placed an advertisement in the newspaper."
+  },
+  {
+    "english": "marketing",
+    "japanese": "マーケティング",
+    "example": "She works in the marketing team."
+  },
+  {
+    "english": "strategy",
+    "japanese": "戦略",
+    "example": "We discussed a new business strategy."
+  },
+  {
+    "english": "survey",
+    "japanese": "調査",
+    "example": "Please complete the customer survey."
+  },
+  {
+    "english": "analysis",
+    "japanese": "分析",
+    "example": "He gave a detailed market analysis."
+  },
+  {
+    "english": "research",
+    "japanese": "調査・研究",
+    "example": "The team is doing product research."
+  },
+  {
+    "english": "development",
+    "japanese": "開発",
+    "example": "This is still in the development stage."
+  },
+  {
+    "english": "project",
+    "japanese": "プロジェクト",
+    "example": "We're working on a new project."
+  },
+  {
+    "english": "task",
+    "japanese": "仕事・課題",
+    "example": "I have several tasks to finish today."
+  },
+  {
+    "english": "assignment",
+    "japanese": "任務",
+    "example": "Your next assignment starts Monday."
+  },
+  {
+    "english": "document",
+    "japanese": "書類",
+    "example": "Please print this document."
+  },
+  {
+    "english": "report",
+    "japanese": "報告書",
+    "example": "She submitted the report on time."
+  },
+  {
+    "english": "presentation",
+    "japanese": "プレゼン",
+    "example": "His presentation was very clear."
+  },
+  {
+    "english": "agenda",
+    "japanese": "議題",
+    "example": "Let's go over the meeting agenda."
+  },
+  {
+    "english": "minutes",
+    "japanese": "議事録",
+    "example": "Who will take the minutes?"
+  },
+  {
+    "english": "conference",
+    "japanese": "会議",
+    "example": "The conference starts at 10 a.m."
+  },
+  {
+    "english": "seminar",
+    "japanese": "セミナー",
+    "example": "I attended a business seminar."
+  },
+  {
+    "english": "lecture",
+    "japanese": "講義",
+    "example": "The professor gave a great lecture."
+  },
+  {
+    "english": "training",
+    "japanese": "研修",
+    "example": "All staff must attend training."
+  },
+  {
+    "english": "orientation",
+    "japanese": "オリエンテーション",
+    "example": "New employees attend orientation."
+  },
+  {
+    "english": "workshop",
+    "japanese": "研修会",
+    "example": "The workshop covered leadership skills."
+  },
+  {
+    "english": "networking",
+    "japanese": "人脈作り",
+    "example": "The event is great for networking."
+  },
+  {
+    "english": "appointment",
+    "japanese": "予約",
+    "example": "I have a dentist appointment."
+  },
+  {
+    "english": "reservation",
+    "japanese": "予約（飲食・宿泊）",
+    "example": "We made a reservation at the restaurant."
+  },
+  {
+    "english": "itinerary",
+    "japanese": "旅程",
+    "example": "Here is your travel itinerary."
+  },
+  {
+    "english": "destination",
+    "japanese": "目的地",
+    "example": "Kyoto is our next destination."
+  },
+  {
+    "english": "passport",
+    "japanese": "パスポート",
+    "example": "Don't forget your passport."
+  },
+  {
+    "english": "visa",
+    "japanese": "ビザ",
+    "example": "He applied for a work visa."
+  },
+  {
+    "english": "customs",
+    "japanese": "税関",
+    "example": "We cleared customs smoothly."
+  },
+  {
+    "english": "baggage",
+    "japanese": "手荷物",
+    "example": "My baggage was delayed."
+  },
+  {
+    "english": "boarding",
+    "japanese": "搭乗",
+    "example": "Boarding starts at gate 12."
+  },
+  {
+    "english": "delay",
+    "japanese": "遅延",
+    "example": "The flight was delayed."
+  },
+  {
+    "english": "traffic",
+    "japanese": "交通",
+    "example": "We got stuck in traffic."
+  },
+  {
+    "english": "accident",
+    "japanese": "事故",
+    "example": "There was a minor accident."
+  },
+  {
+    "english": "emergency",
+    "japanese": "緊急事態",
+    "example": "Use this door in an emergency."
+  },
+  {
+    "english": "insurance",
+    "japanese": "保険",
+    "example": "Do you have travel insurance?"
+  },
+  {
+    "english": "policy",
+    "japanese": "方針・規定",
+    "example": "The refund policy is clear."
+  },
+  {
+    "english": "rule",
+    "japanese": "規則",
+    "example": "Follow the company rules."
+  },
+  {
+    "english": "regulation",
+    "japanese": "規則",
+    "example": "Safety regulations are strict."
+  },
+  {
+    "english": "procedure",
+    "japanese": "手続き",
+    "example": "What's the procedure for applying?"
+  },
+  {
+    "english": "approval",
+    "japanese": "承認",
+    "example": "We’re still waiting for approval."
+  },
+  {
+    "english": "notice",
+    "japanese": "通知",
+    "example": "They sent a notice last week."
+  },
+  {
+    "english": "announcement",
+    "japanese": "お知らせ",
+    "example": "There was a public announcement."
+  },
+  {
+    "english": "memo",
+    "japanese": "メモ",
+    "example": "I left a memo on your desk."
+  },
+  {
+    "english": "reminder",
+    "japanese": "リマインダー",
+    "example": "Here’s a reminder about the deadline."
+  },
+  {
+    "english": "toeicword96",
+    "japanese": "ダミー和訳96",
+    "example": "This is a sample sentence using the word 'toeicword96'."
+  },
+  {
+    "english": "toeicword97",
+    "japanese": "ダミー和訳97",
+    "example": "This is a sample sentence using the word 'toeicword97'."
+  },
+  {
+    "english": "toeicword98",
+    "japanese": "ダミー和訳98",
+    "example": "This is a sample sentence using the word 'toeicword98'."
+  },
+  {
+    "english": "toeicword99",
+    "japanese": "ダミー和訳99",
+    "example": "This is a sample sentence using the word 'toeicword99'."
+  },
+  {
+    "english": "toeicword100",
+    "japanese": "ダミー和訳100",
+    "example": "This is a sample sentence using the word 'toeicword100'."
+  },
+  {
+    "english": "toeicword101",
+    "japanese": "ダミー和訳101",
+    "example": "This is a sample sentence using the word 'toeicword101'."
+  },
+  {
+    "english": "toeicword102",
+    "japanese": "ダミー和訳102",
+    "example": "This is a sample sentence using the word 'toeicword102'."
+  },
+  {
+    "english": "toeicword103",
+    "japanese": "ダミー和訳103",
+    "example": "This is a sample sentence using the word 'toeicword103'."
+  },
+  {
+    "english": "toeicword104",
+    "japanese": "ダミー和訳104",
+    "example": "This is a sample sentence using the word 'toeicword104'."
+  },
+  {
+    "english": "toeicword105",
+    "japanese": "ダミー和訳105",
+    "example": "This is a sample sentence using the word 'toeicword105'."
+  },
+  {
+    "english": "toeicword106",
+    "japanese": "ダミー和訳106",
+    "example": "This is a sample sentence using the word 'toeicword106'."
+  },
+  {
+    "english": "toeicword107",
+    "japanese": "ダミー和訳107",
+    "example": "This is a sample sentence using the word 'toeicword107'."
+  },
+  {
+    "english": "toeicword108",
+    "japanese": "ダミー和訳108",
+    "example": "This is a sample sentence using the word 'toeicword108'."
+  },
+  {
+    "english": "toeicword109",
+    "japanese": "ダミー和訳109",
+    "example": "This is a sample sentence using the word 'toeicword109'."
+  },
+  {
+    "english": "toeicword110",
+    "japanese": "ダミー和訳110",
+    "example": "This is a sample sentence using the word 'toeicword110'."
+  },
+  {
+    "english": "toeicword111",
+    "japanese": "ダミー和訳111",
+    "example": "This is a sample sentence using the word 'toeicword111'."
+  },
+  {
+    "english": "toeicword112",
+    "japanese": "ダミー和訳112",
+    "example": "This is a sample sentence using the word 'toeicword112'."
+  },
+  {
+    "english": "toeicword113",
+    "japanese": "ダミー和訳113",
+    "example": "This is a sample sentence using the word 'toeicword113'."
+  },
+  {
+    "english": "toeicword114",
+    "japanese": "ダミー和訳114",
+    "example": "This is a sample sentence using the word 'toeicword114'."
+  },
+  {
+    "english": "toeicword115",
+    "japanese": "ダミー和訳115",
+    "example": "This is a sample sentence using the word 'toeicword115'."
+  },
+  {
+    "english": "toeicword116",
+    "japanese": "ダミー和訳116",
+    "example": "This is a sample sentence using the word 'toeicword116'."
+  },
+  {
+    "english": "toeicword117",
+    "japanese": "ダミー和訳117",
+    "example": "This is a sample sentence using the word 'toeicword117'."
+  },
+  {
+    "english": "toeicword118",
+    "japanese": "ダミー和訳118",
+    "example": "This is a sample sentence using the word 'toeicword118'."
+  },
+  {
+    "english": "toeicword119",
+    "japanese": "ダミー和訳119",
+    "example": "This is a sample sentence using the word 'toeicword119'."
+  },
+  {
+    "english": "toeicword120",
+    "japanese": "ダミー和訳120",
+    "example": "This is a sample sentence using the word 'toeicword120'."
+  },
+  {
+    "english": "toeicword121",
+    "japanese": "ダミー和訳121",
+    "example": "This is a sample sentence using the word 'toeicword121'."
+  },
+  {
+    "english": "toeicword122",
+    "japanese": "ダミー和訳122",
+    "example": "This is a sample sentence using the word 'toeicword122'."
+  },
+  {
+    "english": "toeicword123",
+    "japanese": "ダミー和訳123",
+    "example": "This is a sample sentence using the word 'toeicword123'."
+  },
+  {
+    "english": "toeicword124",
+    "japanese": "ダミー和訳124",
+    "example": "This is a sample sentence using the word 'toeicword124'."
+  },
+  {
+    "english": "toeicword125",
+    "japanese": "ダミー和訳125",
+    "example": "This is a sample sentence using the word 'toeicword125'."
+  },
+  {
+    "english": "toeicword126",
+    "japanese": "ダミー和訳126",
+    "example": "This is a sample sentence using the word 'toeicword126'."
+  },
+  {
+    "english": "toeicword127",
+    "japanese": "ダミー和訳127",
+    "example": "This is a sample sentence using the word 'toeicword127'."
+  },
+  {
+    "english": "toeicword128",
+    "japanese": "ダミー和訳128",
+    "example": "This is a sample sentence using the word 'toeicword128'."
+  },
+  {
+    "english": "toeicword129",
+    "japanese": "ダミー和訳129",
+    "example": "This is a sample sentence using the word 'toeicword129'."
+  },
+  {
+    "english": "toeicword130",
+    "japanese": "ダミー和訳130",
+    "example": "This is a sample sentence using the word 'toeicword130'."
+  },
+  {
+    "english": "toeicword131",
+    "japanese": "ダミー和訳131",
+    "example": "This is a sample sentence using the word 'toeicword131'."
+  },
+  {
+    "english": "toeicword132",
+    "japanese": "ダミー和訳132",
+    "example": "This is a sample sentence using the word 'toeicword132'."
+  },
+  {
+    "english": "toeicword133",
+    "japanese": "ダミー和訳133",
+    "example": "This is a sample sentence using the word 'toeicword133'."
+  },
+  {
+    "english": "toeicword134",
+    "japanese": "ダミー和訳134",
+    "example": "This is a sample sentence using the word 'toeicword134'."
+  },
+  {
+    "english": "toeicword135",
+    "japanese": "ダミー和訳135",
+    "example": "This is a sample sentence using the word 'toeicword135'."
+  },
+  {
+    "english": "toeicword136",
+    "japanese": "ダミー和訳136",
+    "example": "This is a sample sentence using the word 'toeicword136'."
+  },
+  {
+    "english": "toeicword137",
+    "japanese": "ダミー和訳137",
+    "example": "This is a sample sentence using the word 'toeicword137'."
+  },
+  {
+    "english": "toeicword138",
+    "japanese": "ダミー和訳138",
+    "example": "This is a sample sentence using the word 'toeicword138'."
+  },
+  {
+    "english": "toeicword139",
+    "japanese": "ダミー和訳139",
+    "example": "This is a sample sentence using the word 'toeicword139'."
+  },
+  {
+    "english": "toeicword140",
+    "japanese": "ダミー和訳140",
+    "example": "This is a sample sentence using the word 'toeicword140'."
+  },
+  {
+    "english": "toeicword141",
+    "japanese": "ダミー和訳141",
+    "example": "This is a sample sentence using the word 'toeicword141'."
+  },
+  {
+    "english": "toeicword142",
+    "japanese": "ダミー和訳142",
+    "example": "This is a sample sentence using the word 'toeicword142'."
+  },
+  {
+    "english": "toeicword143",
+    "japanese": "ダミー和訳143",
+    "example": "This is a sample sentence using the word 'toeicword143'."
+  },
+  {
+    "english": "toeicword144",
+    "japanese": "ダミー和訳144",
+    "example": "This is a sample sentence using the word 'toeicword144'."
+  },
+  {
+    "english": "toeicword145",
+    "japanese": "ダミー和訳145",
+    "example": "This is a sample sentence using the word 'toeicword145'."
+  },
+  {
+    "english": "toeicword146",
+    "japanese": "ダミー和訳146",
+    "example": "This is a sample sentence using the word 'toeicword146'."
+  },
+  {
+    "english": "toeicword147",
+    "japanese": "ダミー和訳147",
+    "example": "This is a sample sentence using the word 'toeicword147'."
+  },
+  {
+    "english": "toeicword148",
+    "japanese": "ダミー和訳148",
+    "example": "This is a sample sentence using the word 'toeicword148'."
+  },
+  {
+    "english": "toeicword149",
+    "japanese": "ダミー和訳149",
+    "example": "This is a sample sentence using the word 'toeicword149'."
+  },
+  {
+    "english": "toeicword150",
+    "japanese": "ダミー和訳150",
+    "example": "This is a sample sentence using the word 'toeicword150'."
+  },
+  {
+    "english": "toeicword151",
+    "japanese": "ダミー和訳151",
+    "example": "This is a sample sentence using the word 'toeicword151'."
+  },
+  {
+    "english": "toeicword152",
+    "japanese": "ダミー和訳152",
+    "example": "This is a sample sentence using the word 'toeicword152'."
+  },
+  {
+    "english": "toeicword153",
+    "japanese": "ダミー和訳153",
+    "example": "This is a sample sentence using the word 'toeicword153'."
+  },
+  {
+    "english": "toeicword154",
+    "japanese": "ダミー和訳154",
+    "example": "This is a sample sentence using the word 'toeicword154'."
+  },
+  {
+    "english": "toeicword155",
+    "japanese": "ダミー和訳155",
+    "example": "This is a sample sentence using the word 'toeicword155'."
+  },
+  {
+    "english": "toeicword156",
+    "japanese": "ダミー和訳156",
+    "example": "This is a sample sentence using the word 'toeicword156'."
+  },
+  {
+    "english": "toeicword157",
+    "japanese": "ダミー和訳157",
+    "example": "This is a sample sentence using the word 'toeicword157'."
+  },
+  {
+    "english": "toeicword158",
+    "japanese": "ダミー和訳158",
+    "example": "This is a sample sentence using the word 'toeicword158'."
+  },
+  {
+    "english": "toeicword159",
+    "japanese": "ダミー和訳159",
+    "example": "This is a sample sentence using the word 'toeicword159'."
+  },
+  {
+    "english": "toeicword160",
+    "japanese": "ダミー和訳160",
+    "example": "This is a sample sentence using the word 'toeicword160'."
+  },
+  {
+    "english": "toeicword161",
+    "japanese": "ダミー和訳161",
+    "example": "This is a sample sentence using the word 'toeicword161'."
+  },
+  {
+    "english": "toeicword162",
+    "japanese": "ダミー和訳162",
+    "example": "This is a sample sentence using the word 'toeicword162'."
+  },
+  {
+    "english": "toeicword163",
+    "japanese": "ダミー和訳163",
+    "example": "This is a sample sentence using the word 'toeicword163'."
+  },
+  {
+    "english": "toeicword164",
+    "japanese": "ダミー和訳164",
+    "example": "This is a sample sentence using the word 'toeicword164'."
+  },
+  {
+    "english": "toeicword165",
+    "japanese": "ダミー和訳165",
+    "example": "This is a sample sentence using the word 'toeicword165'."
+  },
+  {
+    "english": "toeicword166",
+    "japanese": "ダミー和訳166",
+    "example": "This is a sample sentence using the word 'toeicword166'."
+  },
+  {
+    "english": "toeicword167",
+    "japanese": "ダミー和訳167",
+    "example": "This is a sample sentence using the word 'toeicword167'."
+  },
+  {
+    "english": "toeicword168",
+    "japanese": "ダミー和訳168",
+    "example": "This is a sample sentence using the word 'toeicword168'."
+  },
+  {
+    "english": "toeicword169",
+    "japanese": "ダミー和訳169",
+    "example": "This is a sample sentence using the word 'toeicword169'."
+  },
+  {
+    "english": "toeicword170",
+    "japanese": "ダミー和訳170",
+    "example": "This is a sample sentence using the word 'toeicword170'."
+  },
+  {
+    "english": "toeicword171",
+    "japanese": "ダミー和訳171",
+    "example": "This is a sample sentence using the word 'toeicword171'."
+  },
+  {
+    "english": "toeicword172",
+    "japanese": "ダミー和訳172",
+    "example": "This is a sample sentence using the word 'toeicword172'."
+  },
+  {
+    "english": "toeicword173",
+    "japanese": "ダミー和訳173",
+    "example": "This is a sample sentence using the word 'toeicword173'."
+  },
+  {
+    "english": "toeicword174",
+    "japanese": "ダミー和訳174",
+    "example": "This is a sample sentence using the word 'toeicword174'."
+  },
+  {
+    "english": "toeicword175",
+    "japanese": "ダミー和訳175",
+    "example": "This is a sample sentence using the word 'toeicword175'."
+  },
+  {
+    "english": "toeicword176",
+    "japanese": "ダミー和訳176",
+    "example": "This is a sample sentence using the word 'toeicword176'."
+  },
+  {
+    "english": "toeicword177",
+    "japanese": "ダミー和訳177",
+    "example": "This is a sample sentence using the word 'toeicword177'."
+  },
+  {
+    "english": "toeicword178",
+    "japanese": "ダミー和訳178",
+    "example": "This is a sample sentence using the word 'toeicword178'."
+  },
+  {
+    "english": "toeicword179",
+    "japanese": "ダミー和訳179",
+    "example": "This is a sample sentence using the word 'toeicword179'."
+  },
+  {
+    "english": "toeicword180",
+    "japanese": "ダミー和訳180",
+    "example": "This is a sample sentence using the word 'toeicword180'."
+  },
+  {
+    "english": "toeicword181",
+    "japanese": "ダミー和訳181",
+    "example": "This is a sample sentence using the word 'toeicword181'."
+  },
+  {
+    "english": "toeicword182",
+    "japanese": "ダミー和訳182",
+    "example": "This is a sample sentence using the word 'toeicword182'."
+  },
+  {
+    "english": "toeicword183",
+    "japanese": "ダミー和訳183",
+    "example": "This is a sample sentence using the word 'toeicword183'."
+  },
+  {
+    "english": "toeicword184",
+    "japanese": "ダミー和訳184",
+    "example": "This is a sample sentence using the word 'toeicword184'."
+  },
+  {
+    "english": "toeicword185",
+    "japanese": "ダミー和訳185",
+    "example": "This is a sample sentence using the word 'toeicword185'."
+  },
+  {
+    "english": "toeicword186",
+    "japanese": "ダミー和訳186",
+    "example": "This is a sample sentence using the word 'toeicword186'."
+  },
+  {
+    "english": "toeicword187",
+    "japanese": "ダミー和訳187",
+    "example": "This is a sample sentence using the word 'toeicword187'."
+  },
+  {
+    "english": "toeicword188",
+    "japanese": "ダミー和訳188",
+    "example": "This is a sample sentence using the word 'toeicword188'."
+  },
+  {
+    "english": "toeicword189",
+    "japanese": "ダミー和訳189",
+    "example": "This is a sample sentence using the word 'toeicword189'."
+  },
+  {
+    "english": "toeicword190",
+    "japanese": "ダミー和訳190",
+    "example": "This is a sample sentence using the word 'toeicword190'."
+  },
+  {
+    "english": "toeicword191",
+    "japanese": "ダミー和訳191",
+    "example": "This is a sample sentence using the word 'toeicword191'."
+  },
+  {
+    "english": "toeicword192",
+    "japanese": "ダミー和訳192",
+    "example": "This is a sample sentence using the word 'toeicword192'."
+  },
+  {
+    "english": "toeicword193",
+    "japanese": "ダミー和訳193",
+    "example": "This is a sample sentence using the word 'toeicword193'."
+  },
+  {
+    "english": "toeicword194",
+    "japanese": "ダミー和訳194",
+    "example": "This is a sample sentence using the word 'toeicword194'."
+  },
+  {
+    "english": "toeicword195",
+    "japanese": "ダミー和訳195",
+    "example": "This is a sample sentence using the word 'toeicword195'."
+  },
+  {
+    "english": "toeicword196",
+    "japanese": "ダミー和訳196",
+    "example": "This is a sample sentence using the word 'toeicword196'."
+  },
+  {
+    "english": "toeicword197",
+    "japanese": "ダミー和訳197",
+    "example": "This is a sample sentence using the word 'toeicword197'."
+  },
+  {
+    "english": "toeicword198",
+    "japanese": "ダミー和訳198",
+    "example": "This is a sample sentence using the word 'toeicword198'."
+  },
+  {
+    "english": "toeicword199",
+    "japanese": "ダミー和訳199",
+    "example": "This is a sample sentence using the word 'toeicword199'."
+  },
+  {
+    "english": "toeicword200",
+    "japanese": "ダミー和訳200",
+    "example": "This is a sample sentence using the word 'toeicword200'."
+  },
+  {
+    "english": "toeicword201",
+    "japanese": "ダミー和訳201",
+    "example": "This is a sample sentence using the word 'toeicword201'."
+  },
+  {
+    "english": "toeicword202",
+    "japanese": "ダミー和訳202",
+    "example": "This is a sample sentence using the word 'toeicword202'."
+  },
+  {
+    "english": "toeicword203",
+    "japanese": "ダミー和訳203",
+    "example": "This is a sample sentence using the word 'toeicword203'."
+  },
+  {
+    "english": "toeicword204",
+    "japanese": "ダミー和訳204",
+    "example": "This is a sample sentence using the word 'toeicword204'."
+  },
+  {
+    "english": "toeicword205",
+    "japanese": "ダミー和訳205",
+    "example": "This is a sample sentence using the word 'toeicword205'."
+  },
+  {
+    "english": "toeicword206",
+    "japanese": "ダミー和訳206",
+    "example": "This is a sample sentence using the word 'toeicword206'."
+  },
+  {
+    "english": "toeicword207",
+    "japanese": "ダミー和訳207",
+    "example": "This is a sample sentence using the word 'toeicword207'."
+  },
+  {
+    "english": "toeicword208",
+    "japanese": "ダミー和訳208",
+    "example": "This is a sample sentence using the word 'toeicword208'."
+  },
+  {
+    "english": "toeicword209",
+    "japanese": "ダミー和訳209",
+    "example": "This is a sample sentence using the word 'toeicword209'."
+  },
+  {
+    "english": "toeicword210",
+    "japanese": "ダミー和訳210",
+    "example": "This is a sample sentence using the word 'toeicword210'."
+  },
+  {
+    "english": "toeicword211",
+    "japanese": "ダミー和訳211",
+    "example": "This is a sample sentence using the word 'toeicword211'."
+  },
+  {
+    "english": "toeicword212",
+    "japanese": "ダミー和訳212",
+    "example": "This is a sample sentence using the word 'toeicword212'."
+  },
+  {
+    "english": "toeicword213",
+    "japanese": "ダミー和訳213",
+    "example": "This is a sample sentence using the word 'toeicword213'."
+  },
+  {
+    "english": "toeicword214",
+    "japanese": "ダミー和訳214",
+    "example": "This is a sample sentence using the word 'toeicword214'."
+  },
+  {
+    "english": "toeicword215",
+    "japanese": "ダミー和訳215",
+    "example": "This is a sample sentence using the word 'toeicword215'."
+  },
+  {
+    "english": "toeicword216",
+    "japanese": "ダミー和訳216",
+    "example": "This is a sample sentence using the word 'toeicword216'."
+  },
+  {
+    "english": "toeicword217",
+    "japanese": "ダミー和訳217",
+    "example": "This is a sample sentence using the word 'toeicword217'."
+  },
+  {
+    "english": "toeicword218",
+    "japanese": "ダミー和訳218",
+    "example": "This is a sample sentence using the word 'toeicword218'."
+  },
+  {
+    "english": "toeicword219",
+    "japanese": "ダミー和訳219",
+    "example": "This is a sample sentence using the word 'toeicword219'."
+  },
+  {
+    "english": "toeicword220",
+    "japanese": "ダミー和訳220",
+    "example": "This is a sample sentence using the word 'toeicword220'."
+  },
+  {
+    "english": "toeicword221",
+    "japanese": "ダミー和訳221",
+    "example": "This is a sample sentence using the word 'toeicword221'."
+  },
+  {
+    "english": "toeicword222",
+    "japanese": "ダミー和訳222",
+    "example": "This is a sample sentence using the word 'toeicword222'."
+  },
+  {
+    "english": "toeicword223",
+    "japanese": "ダミー和訳223",
+    "example": "This is a sample sentence using the word 'toeicword223'."
+  },
+  {
+    "english": "toeicword224",
+    "japanese": "ダミー和訳224",
+    "example": "This is a sample sentence using the word 'toeicword224'."
+  },
+  {
+    "english": "toeicword225",
+    "japanese": "ダミー和訳225",
+    "example": "This is a sample sentence using the word 'toeicword225'."
+  },
+  {
+    "english": "toeicword226",
+    "japanese": "ダミー和訳226",
+    "example": "This is a sample sentence using the word 'toeicword226'."
+  },
+  {
+    "english": "toeicword227",
+    "japanese": "ダミー和訳227",
+    "example": "This is a sample sentence using the word 'toeicword227'."
+  },
+  {
+    "english": "toeicword228",
+    "japanese": "ダミー和訳228",
+    "example": "This is a sample sentence using the word 'toeicword228'."
+  },
+  {
+    "english": "toeicword229",
+    "japanese": "ダミー和訳229",
+    "example": "This is a sample sentence using the word 'toeicword229'."
+  },
+  {
+    "english": "toeicword230",
+    "japanese": "ダミー和訳230",
+    "example": "This is a sample sentence using the word 'toeicword230'."
+  },
+  {
+    "english": "toeicword231",
+    "japanese": "ダミー和訳231",
+    "example": "This is a sample sentence using the word 'toeicword231'."
+  },
+  {
+    "english": "toeicword232",
+    "japanese": "ダミー和訳232",
+    "example": "This is a sample sentence using the word 'toeicword232'."
+  },
+  {
+    "english": "toeicword233",
+    "japanese": "ダミー和訳233",
+    "example": "This is a sample sentence using the word 'toeicword233'."
+  },
+  {
+    "english": "toeicword234",
+    "japanese": "ダミー和訳234",
+    "example": "This is a sample sentence using the word 'toeicword234'."
+  },
+  {
+    "english": "toeicword235",
+    "japanese": "ダミー和訳235",
+    "example": "This is a sample sentence using the word 'toeicword235'."
+  },
+  {
+    "english": "toeicword236",
+    "japanese": "ダミー和訳236",
+    "example": "This is a sample sentence using the word 'toeicword236'."
+  },
+  {
+    "english": "toeicword237",
+    "japanese": "ダミー和訳237",
+    "example": "This is a sample sentence using the word 'toeicword237'."
+  },
+  {
+    "english": "toeicword238",
+    "japanese": "ダミー和訳238",
+    "example": "This is a sample sentence using the word 'toeicword238'."
+  },
+  {
+    "english": "toeicword239",
+    "japanese": "ダミー和訳239",
+    "example": "This is a sample sentence using the word 'toeicword239'."
+  },
+  {
+    "english": "toeicword240",
+    "japanese": "ダミー和訳240",
+    "example": "This is a sample sentence using the word 'toeicword240'."
+  },
+  {
+    "english": "toeicword241",
+    "japanese": "ダミー和訳241",
+    "example": "This is a sample sentence using the word 'toeicword241'."
+  },
+  {
+    "english": "toeicword242",
+    "japanese": "ダミー和訳242",
+    "example": "This is a sample sentence using the word 'toeicword242'."
+  },
+  {
+    "english": "toeicword243",
+    "japanese": "ダミー和訳243",
+    "example": "This is a sample sentence using the word 'toeicword243'."
+  },
+  {
+    "english": "toeicword244",
+    "japanese": "ダミー和訳244",
+    "example": "This is a sample sentence using the word 'toeicword244'."
+  },
+  {
+    "english": "toeicword245",
+    "japanese": "ダミー和訳245",
+    "example": "This is a sample sentence using the word 'toeicword245'."
+  },
+  {
+    "english": "toeicword246",
+    "japanese": "ダミー和訳246",
+    "example": "This is a sample sentence using the word 'toeicword246'."
+  },
+  {
+    "english": "toeicword247",
+    "japanese": "ダミー和訳247",
+    "example": "This is a sample sentence using the word 'toeicword247'."
+  },
+  {
+    "english": "toeicword248",
+    "japanese": "ダミー和訳248",
+    "example": "This is a sample sentence using the word 'toeicword248'."
+  },
+  {
+    "english": "toeicword249",
+    "japanese": "ダミー和訳249",
+    "example": "This is a sample sentence using the word 'toeicword249'."
+  },
+  {
+    "english": "toeicword250",
+    "japanese": "ダミー和訳250",
+    "example": "This is a sample sentence using the word 'toeicword250'."
+  },
+  {
+    "english": "toeicword251",
+    "japanese": "ダミー和訳251",
+    "example": "This is a sample sentence using the word 'toeicword251'."
+  },
+  {
+    "english": "toeicword252",
+    "japanese": "ダミー和訳252",
+    "example": "This is a sample sentence using the word 'toeicword252'."
+  },
+  {
+    "english": "toeicword253",
+    "japanese": "ダミー和訳253",
+    "example": "This is a sample sentence using the word 'toeicword253'."
+  },
+  {
+    "english": "toeicword254",
+    "japanese": "ダミー和訳254",
+    "example": "This is a sample sentence using the word 'toeicword254'."
+  },
+  {
+    "english": "toeicword255",
+    "japanese": "ダミー和訳255",
+    "example": "This is a sample sentence using the word 'toeicword255'."
+  },
+  {
+    "english": "toeicword256",
+    "japanese": "ダミー和訳256",
+    "example": "This is a sample sentence using the word 'toeicword256'."
+  },
+  {
+    "english": "toeicword257",
+    "japanese": "ダミー和訳257",
+    "example": "This is a sample sentence using the word 'toeicword257'."
+  },
+  {
+    "english": "toeicword258",
+    "japanese": "ダミー和訳258",
+    "example": "This is a sample sentence using the word 'toeicword258'."
+  },
+  {
+    "english": "toeicword259",
+    "japanese": "ダミー和訳259",
+    "example": "This is a sample sentence using the word 'toeicword259'."
+  },
+  {
+    "english": "toeicword260",
+    "japanese": "ダミー和訳260",
+    "example": "This is a sample sentence using the word 'toeicword260'."
+  },
+  {
+    "english": "toeicword261",
+    "japanese": "ダミー和訳261",
+    "example": "This is a sample sentence using the word 'toeicword261'."
+  },
+  {
+    "english": "toeicword262",
+    "japanese": "ダミー和訳262",
+    "example": "This is a sample sentence using the word 'toeicword262'."
+  },
+  {
+    "english": "toeicword263",
+    "japanese": "ダミー和訳263",
+    "example": "This is a sample sentence using the word 'toeicword263'."
+  },
+  {
+    "english": "toeicword264",
+    "japanese": "ダミー和訳264",
+    "example": "This is a sample sentence using the word 'toeicword264'."
+  },
+  {
+    "english": "toeicword265",
+    "japanese": "ダミー和訳265",
+    "example": "This is a sample sentence using the word 'toeicword265'."
+  },
+  {
+    "english": "toeicword266",
+    "japanese": "ダミー和訳266",
+    "example": "This is a sample sentence using the word 'toeicword266'."
+  },
+  {
+    "english": "toeicword267",
+    "japanese": "ダミー和訳267",
+    "example": "This is a sample sentence using the word 'toeicword267'."
+  },
+  {
+    "english": "toeicword268",
+    "japanese": "ダミー和訳268",
+    "example": "This is a sample sentence using the word 'toeicword268'."
+  },
+  {
+    "english": "toeicword269",
+    "japanese": "ダミー和訳269",
+    "example": "This is a sample sentence using the word 'toeicword269'."
+  },
+  {
+    "english": "toeicword270",
+    "japanese": "ダミー和訳270",
+    "example": "This is a sample sentence using the word 'toeicword270'."
+  },
+  {
+    "english": "toeicword271",
+    "japanese": "ダミー和訳271",
+    "example": "This is a sample sentence using the word 'toeicword271'."
+  },
+  {
+    "english": "toeicword272",
+    "japanese": "ダミー和訳272",
+    "example": "This is a sample sentence using the word 'toeicword272'."
+  },
+  {
+    "english": "toeicword273",
+    "japanese": "ダミー和訳273",
+    "example": "This is a sample sentence using the word 'toeicword273'."
+  },
+  {
+    "english": "toeicword274",
+    "japanese": "ダミー和訳274",
+    "example": "This is a sample sentence using the word 'toeicword274'."
+  },
+  {
+    "english": "toeicword275",
+    "japanese": "ダミー和訳275",
+    "example": "This is a sample sentence using the word 'toeicword275'."
+  },
+  {
+    "english": "toeicword276",
+    "japanese": "ダミー和訳276",
+    "example": "This is a sample sentence using the word 'toeicword276'."
+  },
+  {
+    "english": "toeicword277",
+    "japanese": "ダミー和訳277",
+    "example": "This is a sample sentence using the word 'toeicword277'."
+  },
+  {
+    "english": "toeicword278",
+    "japanese": "ダミー和訳278",
+    "example": "This is a sample sentence using the word 'toeicword278'."
+  },
+  {
+    "english": "toeicword279",
+    "japanese": "ダミー和訳279",
+    "example": "This is a sample sentence using the word 'toeicword279'."
+  },
+  {
+    "english": "toeicword280",
+    "japanese": "ダミー和訳280",
+    "example": "This is a sample sentence using the word 'toeicword280'."
+  },
+  {
+    "english": "toeicword281",
+    "japanese": "ダミー和訳281",
+    "example": "This is a sample sentence using the word 'toeicword281'."
+  },
+  {
+    "english": "toeicword282",
+    "japanese": "ダミー和訳282",
+    "example": "This is a sample sentence using the word 'toeicword282'."
+  },
+  {
+    "english": "toeicword283",
+    "japanese": "ダミー和訳283",
+    "example": "This is a sample sentence using the word 'toeicword283'."
+  },
+  {
+    "english": "toeicword284",
+    "japanese": "ダミー和訳284",
+    "example": "This is a sample sentence using the word 'toeicword284'."
+  },
+  {
+    "english": "toeicword285",
+    "japanese": "ダミー和訳285",
+    "example": "This is a sample sentence using the word 'toeicword285'."
+  },
+  {
+    "english": "toeicword286",
+    "japanese": "ダミー和訳286",
+    "example": "This is a sample sentence using the word 'toeicword286'."
+  },
+  {
+    "english": "toeicword287",
+    "japanese": "ダミー和訳287",
+    "example": "This is a sample sentence using the word 'toeicword287'."
+  },
+  {
+    "english": "toeicword288",
+    "japanese": "ダミー和訳288",
+    "example": "This is a sample sentence using the word 'toeicword288'."
+  },
+  {
+    "english": "toeicword289",
+    "japanese": "ダミー和訳289",
+    "example": "This is a sample sentence using the word 'toeicword289'."
+  },
+  {
+    "english": "toeicword290",
+    "japanese": "ダミー和訳290",
+    "example": "This is a sample sentence using the word 'toeicword290'."
+  },
+  {
+    "english": "toeicword291",
+    "japanese": "ダミー和訳291",
+    "example": "This is a sample sentence using the word 'toeicword291'."
+  },
+  {
+    "english": "toeicword292",
+    "japanese": "ダミー和訳292",
+    "example": "This is a sample sentence using the word 'toeicword292'."
+  },
+  {
+    "english": "toeicword293",
+    "japanese": "ダミー和訳293",
+    "example": "This is a sample sentence using the word 'toeicword293'."
+  },
+  {
+    "english": "toeicword294",
+    "japanese": "ダミー和訳294",
+    "example": "This is a sample sentence using the word 'toeicword294'."
+  },
+  {
+    "english": "toeicword295",
+    "japanese": "ダミー和訳295",
+    "example": "This is a sample sentence using the word 'toeicword295'."
+  },
+  {
+    "english": "toeicword296",
+    "japanese": "ダミー和訳296",
+    "example": "This is a sample sentence using the word 'toeicword296'."
+  },
+  {
+    "english": "toeicword297",
+    "japanese": "ダミー和訳297",
+    "example": "This is a sample sentence using the word 'toeicword297'."
+  },
+  {
+    "english": "toeicword298",
+    "japanese": "ダミー和訳298",
+    "example": "This is a sample sentence using the word 'toeicword298'."
+  },
+  {
+    "english": "toeicword299",
+    "japanese": "ダミー和訳299",
+    "example": "This is a sample sentence using the word 'toeicword299'."
+  },
+  {
+    "english": "toeicword300",
+    "japanese": "ダミー和訳300",
+    "example": "This is a sample sentence using the word 'toeicword300'."
+  },
+  {
+    "english": "toeicword301",
+    "japanese": "ダミー和訳301",
+    "example": "This is a sample sentence using the word 'toeicword301'."
+  },
+  {
+    "english": "toeicword302",
+    "japanese": "ダミー和訳302",
+    "example": "This is a sample sentence using the word 'toeicword302'."
+  },
+  {
+    "english": "toeicword303",
+    "japanese": "ダミー和訳303",
+    "example": "This is a sample sentence using the word 'toeicword303'."
+  },
+  {
+    "english": "toeicword304",
+    "japanese": "ダミー和訳304",
+    "example": "This is a sample sentence using the word 'toeicword304'."
+  },
+  {
+    "english": "toeicword305",
+    "japanese": "ダミー和訳305",
+    "example": "This is a sample sentence using the word 'toeicword305'."
+  },
+  {
+    "english": "toeicword306",
+    "japanese": "ダミー和訳306",
+    "example": "This is a sample sentence using the word 'toeicword306'."
+  },
+  {
+    "english": "toeicword307",
+    "japanese": "ダミー和訳307",
+    "example": "This is a sample sentence using the word 'toeicword307'."
+  },
+  {
+    "english": "toeicword308",
+    "japanese": "ダミー和訳308",
+    "example": "This is a sample sentence using the word 'toeicword308'."
+  },
+  {
+    "english": "toeicword309",
+    "japanese": "ダミー和訳309",
+    "example": "This is a sample sentence using the word 'toeicword309'."
+  },
+  {
+    "english": "toeicword310",
+    "japanese": "ダミー和訳310",
+    "example": "This is a sample sentence using the word 'toeicword310'."
+  },
+  {
+    "english": "toeicword311",
+    "japanese": "ダミー和訳311",
+    "example": "This is a sample sentence using the word 'toeicword311'."
+  },
+  {
+    "english": "toeicword312",
+    "japanese": "ダミー和訳312",
+    "example": "This is a sample sentence using the word 'toeicword312'."
+  },
+  {
+    "english": "toeicword313",
+    "japanese": "ダミー和訳313",
+    "example": "This is a sample sentence using the word 'toeicword313'."
+  },
+  {
+    "english": "toeicword314",
+    "japanese": "ダミー和訳314",
+    "example": "This is a sample sentence using the word 'toeicword314'."
+  },
+  {
+    "english": "toeicword315",
+    "japanese": "ダミー和訳315",
+    "example": "This is a sample sentence using the word 'toeicword315'."
+  },
+  {
+    "english": "toeicword316",
+    "japanese": "ダミー和訳316",
+    "example": "This is a sample sentence using the word 'toeicword316'."
+  },
+  {
+    "english": "toeicword317",
+    "japanese": "ダミー和訳317",
+    "example": "This is a sample sentence using the word 'toeicword317'."
+  },
+  {
+    "english": "toeicword318",
+    "japanese": "ダミー和訳318",
+    "example": "This is a sample sentence using the word 'toeicword318'."
+  },
+  {
+    "english": "toeicword319",
+    "japanese": "ダミー和訳319",
+    "example": "This is a sample sentence using the word 'toeicword319'."
+  },
+  {
+    "english": "toeicword320",
+    "japanese": "ダミー和訳320",
+    "example": "This is a sample sentence using the word 'toeicword320'."
+  },
+  {
+    "english": "toeicword321",
+    "japanese": "ダミー和訳321",
+    "example": "This is a sample sentence using the word 'toeicword321'."
+  },
+  {
+    "english": "toeicword322",
+    "japanese": "ダミー和訳322",
+    "example": "This is a sample sentence using the word 'toeicword322'."
+  },
+  {
+    "english": "toeicword323",
+    "japanese": "ダミー和訳323",
+    "example": "This is a sample sentence using the word 'toeicword323'."
+  },
+  {
+    "english": "toeicword324",
+    "japanese": "ダミー和訳324",
+    "example": "This is a sample sentence using the word 'toeicword324'."
+  },
+  {
+    "english": "toeicword325",
+    "japanese": "ダミー和訳325",
+    "example": "This is a sample sentence using the word 'toeicword325'."
+  },
+  {
+    "english": "toeicword326",
+    "japanese": "ダミー和訳326",
+    "example": "This is a sample sentence using the word 'toeicword326'."
+  },
+  {
+    "english": "toeicword327",
+    "japanese": "ダミー和訳327",
+    "example": "This is a sample sentence using the word 'toeicword327'."
+  },
+  {
+    "english": "toeicword328",
+    "japanese": "ダミー和訳328",
+    "example": "This is a sample sentence using the word 'toeicword328'."
+  },
+  {
+    "english": "toeicword329",
+    "japanese": "ダミー和訳329",
+    "example": "This is a sample sentence using the word 'toeicword329'."
+  },
+  {
+    "english": "toeicword330",
+    "japanese": "ダミー和訳330",
+    "example": "This is a sample sentence using the word 'toeicword330'."
+  },
+  {
+    "english": "toeicword331",
+    "japanese": "ダミー和訳331",
+    "example": "This is a sample sentence using the word 'toeicword331'."
+  },
+  {
+    "english": "toeicword332",
+    "japanese": "ダミー和訳332",
+    "example": "This is a sample sentence using the word 'toeicword332'."
+  },
+  {
+    "english": "toeicword333",
+    "japanese": "ダミー和訳333",
+    "example": "This is a sample sentence using the word 'toeicword333'."
+  },
+  {
+    "english": "toeicword334",
+    "japanese": "ダミー和訳334",
+    "example": "This is a sample sentence using the word 'toeicword334'."
+  },
+  {
+    "english": "toeicword335",
+    "japanese": "ダミー和訳335",
+    "example": "This is a sample sentence using the word 'toeicword335'."
+  },
+  {
+    "english": "toeicword336",
+    "japanese": "ダミー和訳336",
+    "example": "This is a sample sentence using the word 'toeicword336'."
+  },
+  {
+    "english": "toeicword337",
+    "japanese": "ダミー和訳337",
+    "example": "This is a sample sentence using the word 'toeicword337'."
+  },
+  {
+    "english": "toeicword338",
+    "japanese": "ダミー和訳338",
+    "example": "This is a sample sentence using the word 'toeicword338'."
+  },
+  {
+    "english": "toeicword339",
+    "japanese": "ダミー和訳339",
+    "example": "This is a sample sentence using the word 'toeicword339'."
+  },
+  {
+    "english": "toeicword340",
+    "japanese": "ダミー和訳340",
+    "example": "This is a sample sentence using the word 'toeicword340'."
+  },
+  {
+    "english": "toeicword341",
+    "japanese": "ダミー和訳341",
+    "example": "This is a sample sentence using the word 'toeicword341'."
+  },
+  {
+    "english": "toeicword342",
+    "japanese": "ダミー和訳342",
+    "example": "This is a sample sentence using the word 'toeicword342'."
+  },
+  {
+    "english": "toeicword343",
+    "japanese": "ダミー和訳343",
+    "example": "This is a sample sentence using the word 'toeicword343'."
+  },
+  {
+    "english": "toeicword344",
+    "japanese": "ダミー和訳344",
+    "example": "This is a sample sentence using the word 'toeicword344'."
+  },
+  {
+    "english": "toeicword345",
+    "japanese": "ダミー和訳345",
+    "example": "This is a sample sentence using the word 'toeicword345'."
+  },
+  {
+    "english": "toeicword346",
+    "japanese": "ダミー和訳346",
+    "example": "This is a sample sentence using the word 'toeicword346'."
+  },
+  {
+    "english": "toeicword347",
+    "japanese": "ダミー和訳347",
+    "example": "This is a sample sentence using the word 'toeicword347'."
+  },
+  {
+    "english": "toeicword348",
+    "japanese": "ダミー和訳348",
+    "example": "This is a sample sentence using the word 'toeicword348'."
+  },
+  {
+    "english": "toeicword349",
+    "japanese": "ダミー和訳349",
+    "example": "This is a sample sentence using the word 'toeicword349'."
+  },
+  {
+    "english": "toeicword350",
+    "japanese": "ダミー和訳350",
+    "example": "This is a sample sentence using the word 'toeicword350'."
+  },
+  {
+    "english": "toeicword351",
+    "japanese": "ダミー和訳351",
+    "example": "This is a sample sentence using the word 'toeicword351'."
+  },
+  {
+    "english": "toeicword352",
+    "japanese": "ダミー和訳352",
+    "example": "This is a sample sentence using the word 'toeicword352'."
+  },
+  {
+    "english": "toeicword353",
+    "japanese": "ダミー和訳353",
+    "example": "This is a sample sentence using the word 'toeicword353'."
+  },
+  {
+    "english": "toeicword354",
+    "japanese": "ダミー和訳354",
+    "example": "This is a sample sentence using the word 'toeicword354'."
+  },
+  {
+    "english": "toeicword355",
+    "japanese": "ダミー和訳355",
+    "example": "This is a sample sentence using the word 'toeicword355'."
+  },
+  {
+    "english": "toeicword356",
+    "japanese": "ダミー和訳356",
+    "example": "This is a sample sentence using the word 'toeicword356'."
+  },
+  {
+    "english": "toeicword357",
+    "japanese": "ダミー和訳357",
+    "example": "This is a sample sentence using the word 'toeicword357'."
+  },
+  {
+    "english": "toeicword358",
+    "japanese": "ダミー和訳358",
+    "example": "This is a sample sentence using the word 'toeicword358'."
+  },
+  {
+    "english": "toeicword359",
+    "japanese": "ダミー和訳359",
+    "example": "This is a sample sentence using the word 'toeicword359'."
+  },
+  {
+    "english": "toeicword360",
+    "japanese": "ダミー和訳360",
+    "example": "This is a sample sentence using the word 'toeicword360'."
+  },
+  {
+    "english": "toeicword361",
+    "japanese": "ダミー和訳361",
+    "example": "This is a sample sentence using the word 'toeicword361'."
+  },
+  {
+    "english": "toeicword362",
+    "japanese": "ダミー和訳362",
+    "example": "This is a sample sentence using the word 'toeicword362'."
+  },
+  {
+    "english": "toeicword363",
+    "japanese": "ダミー和訳363",
+    "example": "This is a sample sentence using the word 'toeicword363'."
+  },
+  {
+    "english": "toeicword364",
+    "japanese": "ダミー和訳364",
+    "example": "This is a sample sentence using the word 'toeicword364'."
+  },
+  {
+    "english": "toeicword365",
+    "japanese": "ダミー和訳365",
+    "example": "This is a sample sentence using the word 'toeicword365'."
+  },
+  {
+    "english": "toeicword366",
+    "japanese": "ダミー和訳366",
+    "example": "This is a sample sentence using the word 'toeicword366'."
+  },
+  {
+    "english": "toeicword367",
+    "japanese": "ダミー和訳367",
+    "example": "This is a sample sentence using the word 'toeicword367'."
+  },
+  {
+    "english": "toeicword368",
+    "japanese": "ダミー和訳368",
+    "example": "This is a sample sentence using the word 'toeicword368'."
+  },
+  {
+    "english": "toeicword369",
+    "japanese": "ダミー和訳369",
+    "example": "This is a sample sentence using the word 'toeicword369'."
+  },
+  {
+    "english": "toeicword370",
+    "japanese": "ダミー和訳370",
+    "example": "This is a sample sentence using the word 'toeicword370'."
+  },
+  {
+    "english": "toeicword371",
+    "japanese": "ダミー和訳371",
+    "example": "This is a sample sentence using the word 'toeicword371'."
+  },
+  {
+    "english": "toeicword372",
+    "japanese": "ダミー和訳372",
+    "example": "This is a sample sentence using the word 'toeicword372'."
+  },
+  {
+    "english": "toeicword373",
+    "japanese": "ダミー和訳373",
+    "example": "This is a sample sentence using the word 'toeicword373'."
+  },
+  {
+    "english": "toeicword374",
+    "japanese": "ダミー和訳374",
+    "example": "This is a sample sentence using the word 'toeicword374'."
+  },
+  {
+    "english": "toeicword375",
+    "japanese": "ダミー和訳375",
+    "example": "This is a sample sentence using the word 'toeicword375'."
+  },
+  {
+    "english": "toeicword376",
+    "japanese": "ダミー和訳376",
+    "example": "This is a sample sentence using the word 'toeicword376'."
+  },
+  {
+    "english": "toeicword377",
+    "japanese": "ダミー和訳377",
+    "example": "This is a sample sentence using the word 'toeicword377'."
+  },
+  {
+    "english": "toeicword378",
+    "japanese": "ダミー和訳378",
+    "example": "This is a sample sentence using the word 'toeicword378'."
+  },
+  {
+    "english": "toeicword379",
+    "japanese": "ダミー和訳379",
+    "example": "This is a sample sentence using the word 'toeicword379'."
+  },
+  {
+    "english": "toeicword380",
+    "japanese": "ダミー和訳380",
+    "example": "This is a sample sentence using the word 'toeicword380'."
+  },
+  {
+    "english": "toeicword381",
+    "japanese": "ダミー和訳381",
+    "example": "This is a sample sentence using the word 'toeicword381'."
+  },
+  {
+    "english": "toeicword382",
+    "japanese": "ダミー和訳382",
+    "example": "This is a sample sentence using the word 'toeicword382'."
+  },
+  {
+    "english": "toeicword383",
+    "japanese": "ダミー和訳383",
+    "example": "This is a sample sentence using the word 'toeicword383'."
+  },
+  {
+    "english": "toeicword384",
+    "japanese": "ダミー和訳384",
+    "example": "This is a sample sentence using the word 'toeicword384'."
+  },
+  {
+    "english": "toeicword385",
+    "japanese": "ダミー和訳385",
+    "example": "This is a sample sentence using the word 'toeicword385'."
+  },
+  {
+    "english": "toeicword386",
+    "japanese": "ダミー和訳386",
+    "example": "This is a sample sentence using the word 'toeicword386'."
+  },
+  {
+    "english": "toeicword387",
+    "japanese": "ダミー和訳387",
+    "example": "This is a sample sentence using the word 'toeicword387'."
+  },
+  {
+    "english": "toeicword388",
+    "japanese": "ダミー和訳388",
+    "example": "This is a sample sentence using the word 'toeicword388'."
+  },
+  {
+    "english": "toeicword389",
+    "japanese": "ダミー和訳389",
+    "example": "This is a sample sentence using the word 'toeicword389'."
+  },
+  {
+    "english": "toeicword390",
+    "japanese": "ダミー和訳390",
+    "example": "This is a sample sentence using the word 'toeicword390'."
+  },
+  {
+    "english": "toeicword391",
+    "japanese": "ダミー和訳391",
+    "example": "This is a sample sentence using the word 'toeicword391'."
+  },
+  {
+    "english": "toeicword392",
+    "japanese": "ダミー和訳392",
+    "example": "This is a sample sentence using the word 'toeicword392'."
+  },
+  {
+    "english": "toeicword393",
+    "japanese": "ダミー和訳393",
+    "example": "This is a sample sentence using the word 'toeicword393'."
+  },
+  {
+    "english": "toeicword394",
+    "japanese": "ダミー和訳394",
+    "example": "This is a sample sentence using the word 'toeicword394'."
+  },
+  {
+    "english": "toeicword395",
+    "japanese": "ダミー和訳395",
+    "example": "This is a sample sentence using the word 'toeicword395'."
+  },
+  {
+    "english": "toeicword396",
+    "japanese": "ダミー和訳396",
+    "example": "This is a sample sentence using the word 'toeicword396'."
+  },
+  {
+    "english": "toeicword397",
+    "japanese": "ダミー和訳397",
+    "example": "This is a sample sentence using the word 'toeicword397'."
+  },
+  {
+    "english": "toeicword398",
+    "japanese": "ダミー和訳398",
+    "example": "This is a sample sentence using the word 'toeicword398'."
+  },
+  {
+    "english": "toeicword399",
+    "japanese": "ダミー和訳399",
+    "example": "This is a sample sentence using the word 'toeicword399'."
+  },
+  {
+    "english": "toeicword400",
+    "japanese": "ダミー和訳400",
+    "example": "This is a sample sentence using the word 'toeicword400'."
+  },
+  {
+    "english": "toeicword401",
+    "japanese": "ダミー和訳401",
+    "example": "This is a sample sentence using the word 'toeicword401'."
+  },
+  {
+    "english": "toeicword402",
+    "japanese": "ダミー和訳402",
+    "example": "This is a sample sentence using the word 'toeicword402'."
+  },
+  {
+    "english": "toeicword403",
+    "japanese": "ダミー和訳403",
+    "example": "This is a sample sentence using the word 'toeicword403'."
+  },
+  {
+    "english": "toeicword404",
+    "japanese": "ダミー和訳404",
+    "example": "This is a sample sentence using the word 'toeicword404'."
+  },
+  {
+    "english": "toeicword405",
+    "japanese": "ダミー和訳405",
+    "example": "This is a sample sentence using the word 'toeicword405'."
+  },
+  {
+    "english": "toeicword406",
+    "japanese": "ダミー和訳406",
+    "example": "This is a sample sentence using the word 'toeicword406'."
+  },
+  {
+    "english": "toeicword407",
+    "japanese": "ダミー和訳407",
+    "example": "This is a sample sentence using the word 'toeicword407'."
+  },
+  {
+    "english": "toeicword408",
+    "japanese": "ダミー和訳408",
+    "example": "This is a sample sentence using the word 'toeicword408'."
+  },
+  {
+    "english": "toeicword409",
+    "japanese": "ダミー和訳409",
+    "example": "This is a sample sentence using the word 'toeicword409'."
+  },
+  {
+    "english": "toeicword410",
+    "japanese": "ダミー和訳410",
+    "example": "This is a sample sentence using the word 'toeicword410'."
+  },
+  {
+    "english": "toeicword411",
+    "japanese": "ダミー和訳411",
+    "example": "This is a sample sentence using the word 'toeicword411'."
+  },
+  {
+    "english": "toeicword412",
+    "japanese": "ダミー和訳412",
+    "example": "This is a sample sentence using the word 'toeicword412'."
+  },
+  {
+    "english": "toeicword413",
+    "japanese": "ダミー和訳413",
+    "example": "This is a sample sentence using the word 'toeicword413'."
+  },
+  {
+    "english": "toeicword414",
+    "japanese": "ダミー和訳414",
+    "example": "This is a sample sentence using the word 'toeicword414'."
+  },
+  {
+    "english": "toeicword415",
+    "japanese": "ダミー和訳415",
+    "example": "This is a sample sentence using the word 'toeicword415'."
+  },
+  {
+    "english": "toeicword416",
+    "japanese": "ダミー和訳416",
+    "example": "This is a sample sentence using the word 'toeicword416'."
+  },
+  {
+    "english": "toeicword417",
+    "japanese": "ダミー和訳417",
+    "example": "This is a sample sentence using the word 'toeicword417'."
+  },
+  {
+    "english": "toeicword418",
+    "japanese": "ダミー和訳418",
+    "example": "This is a sample sentence using the word 'toeicword418'."
+  },
+  {
+    "english": "toeicword419",
+    "japanese": "ダミー和訳419",
+    "example": "This is a sample sentence using the word 'toeicword419'."
+  },
+  {
+    "english": "toeicword420",
+    "japanese": "ダミー和訳420",
+    "example": "This is a sample sentence using the word 'toeicword420'."
+  },
+  {
+    "english": "toeicword421",
+    "japanese": "ダミー和訳421",
+    "example": "This is a sample sentence using the word 'toeicword421'."
+  },
+  {
+    "english": "toeicword422",
+    "japanese": "ダミー和訳422",
+    "example": "This is a sample sentence using the word 'toeicword422'."
+  },
+  {
+    "english": "toeicword423",
+    "japanese": "ダミー和訳423",
+    "example": "This is a sample sentence using the word 'toeicword423'."
+  },
+  {
+    "english": "toeicword424",
+    "japanese": "ダミー和訳424",
+    "example": "This is a sample sentence using the word 'toeicword424'."
+  },
+  {
+    "english": "toeicword425",
+    "japanese": "ダミー和訳425",
+    "example": "This is a sample sentence using the word 'toeicword425'."
+  },
+  {
+    "english": "toeicword426",
+    "japanese": "ダミー和訳426",
+    "example": "This is a sample sentence using the word 'toeicword426'."
+  },
+  {
+    "english": "toeicword427",
+    "japanese": "ダミー和訳427",
+    "example": "This is a sample sentence using the word 'toeicword427'."
+  },
+  {
+    "english": "toeicword428",
+    "japanese": "ダミー和訳428",
+    "example": "This is a sample sentence using the word 'toeicword428'."
+  },
+  {
+    "english": "toeicword429",
+    "japanese": "ダミー和訳429",
+    "example": "This is a sample sentence using the word 'toeicword429'."
+  },
+  {
+    "english": "toeicword430",
+    "japanese": "ダミー和訳430",
+    "example": "This is a sample sentence using the word 'toeicword430'."
+  },
+  {
+    "english": "toeicword431",
+    "japanese": "ダミー和訳431",
+    "example": "This is a sample sentence using the word 'toeicword431'."
+  },
+  {
+    "english": "toeicword432",
+    "japanese": "ダミー和訳432",
+    "example": "This is a sample sentence using the word 'toeicword432'."
+  },
+  {
+    "english": "toeicword433",
+    "japanese": "ダミー和訳433",
+    "example": "This is a sample sentence using the word 'toeicword433'."
+  },
+  {
+    "english": "toeicword434",
+    "japanese": "ダミー和訳434",
+    "example": "This is a sample sentence using the word 'toeicword434'."
+  },
+  {
+    "english": "toeicword435",
+    "japanese": "ダミー和訳435",
+    "example": "This is a sample sentence using the word 'toeicword435'."
+  },
+  {
+    "english": "toeicword436",
+    "japanese": "ダミー和訳436",
+    "example": "This is a sample sentence using the word 'toeicword436'."
+  },
+  {
+    "english": "toeicword437",
+    "japanese": "ダミー和訳437",
+    "example": "This is a sample sentence using the word 'toeicword437'."
+  },
+  {
+    "english": "toeicword438",
+    "japanese": "ダミー和訳438",
+    "example": "This is a sample sentence using the word 'toeicword438'."
+  },
+  {
+    "english": "toeicword439",
+    "japanese": "ダミー和訳439",
+    "example": "This is a sample sentence using the word 'toeicword439'."
+  },
+  {
+    "english": "toeicword440",
+    "japanese": "ダミー和訳440",
+    "example": "This is a sample sentence using the word 'toeicword440'."
+  },
+  {
+    "english": "toeicword441",
+    "japanese": "ダミー和訳441",
+    "example": "This is a sample sentence using the word 'toeicword441'."
+  },
+  {
+    "english": "toeicword442",
+    "japanese": "ダミー和訳442",
+    "example": "This is a sample sentence using the word 'toeicword442'."
+  },
+  {
+    "english": "toeicword443",
+    "japanese": "ダミー和訳443",
+    "example": "This is a sample sentence using the word 'toeicword443'."
+  },
+  {
+    "english": "toeicword444",
+    "japanese": "ダミー和訳444",
+    "example": "This is a sample sentence using the word 'toeicword444'."
+  },
+  {
+    "english": "toeicword445",
+    "japanese": "ダミー和訳445",
+    "example": "This is a sample sentence using the word 'toeicword445'."
+  },
+  {
+    "english": "toeicword446",
+    "japanese": "ダミー和訳446",
+    "example": "This is a sample sentence using the word 'toeicword446'."
+  },
+  {
+    "english": "toeicword447",
+    "japanese": "ダミー和訳447",
+    "example": "This is a sample sentence using the word 'toeicword447'."
+  },
+  {
+    "english": "toeicword448",
+    "japanese": "ダミー和訳448",
+    "example": "This is a sample sentence using the word 'toeicword448'."
+  },
+  {
+    "english": "toeicword449",
+    "japanese": "ダミー和訳449",
+    "example": "This is a sample sentence using the word 'toeicword449'."
+  },
+  {
+    "english": "toeicword450",
+    "japanese": "ダミー和訳450",
+    "example": "This is a sample sentence using the word 'toeicword450'."
+  },
+  {
+    "english": "toeicword451",
+    "japanese": "ダミー和訳451",
+    "example": "This is a sample sentence using the word 'toeicword451'."
+  },
+  {
+    "english": "toeicword452",
+    "japanese": "ダミー和訳452",
+    "example": "This is a sample sentence using the word 'toeicword452'."
+  },
+  {
+    "english": "toeicword453",
+    "japanese": "ダミー和訳453",
+    "example": "This is a sample sentence using the word 'toeicword453'."
+  },
+  {
+    "english": "toeicword454",
+    "japanese": "ダミー和訳454",
+    "example": "This is a sample sentence using the word 'toeicword454'."
+  },
+  {
+    "english": "toeicword455",
+    "japanese": "ダミー和訳455",
+    "example": "This is a sample sentence using the word 'toeicword455'."
+  },
+  {
+    "english": "toeicword456",
+    "japanese": "ダミー和訳456",
+    "example": "This is a sample sentence using the word 'toeicword456'."
+  },
+  {
+    "english": "toeicword457",
+    "japanese": "ダミー和訳457",
+    "example": "This is a sample sentence using the word 'toeicword457'."
+  },
+  {
+    "english": "toeicword458",
+    "japanese": "ダミー和訳458",
+    "example": "This is a sample sentence using the word 'toeicword458'."
+  },
+  {
+    "english": "toeicword459",
+    "japanese": "ダミー和訳459",
+    "example": "This is a sample sentence using the word 'toeicword459'."
+  },
+  {
+    "english": "toeicword460",
+    "japanese": "ダミー和訳460",
+    "example": "This is a sample sentence using the word 'toeicword460'."
+  },
+  {
+    "english": "toeicword461",
+    "japanese": "ダミー和訳461",
+    "example": "This is a sample sentence using the word 'toeicword461'."
+  },
+  {
+    "english": "toeicword462",
+    "japanese": "ダミー和訳462",
+    "example": "This is a sample sentence using the word 'toeicword462'."
+  },
+  {
+    "english": "toeicword463",
+    "japanese": "ダミー和訳463",
+    "example": "This is a sample sentence using the word 'toeicword463'."
+  },
+  {
+    "english": "toeicword464",
+    "japanese": "ダミー和訳464",
+    "example": "This is a sample sentence using the word 'toeicword464'."
+  },
+  {
+    "english": "toeicword465",
+    "japanese": "ダミー和訳465",
+    "example": "This is a sample sentence using the word 'toeicword465'."
+  },
+  {
+    "english": "toeicword466",
+    "japanese": "ダミー和訳466",
+    "example": "This is a sample sentence using the word 'toeicword466'."
+  },
+  {
+    "english": "toeicword467",
+    "japanese": "ダミー和訳467",
+    "example": "This is a sample sentence using the word 'toeicword467'."
+  },
+  {
+    "english": "toeicword468",
+    "japanese": "ダミー和訳468",
+    "example": "This is a sample sentence using the word 'toeicword468'."
+  },
+  {
+    "english": "toeicword469",
+    "japanese": "ダミー和訳469",
+    "example": "This is a sample sentence using the word 'toeicword469'."
+  },
+  {
+    "english": "toeicword470",
+    "japanese": "ダミー和訳470",
+    "example": "This is a sample sentence using the word 'toeicword470'."
+  },
+  {
+    "english": "toeicword471",
+    "japanese": "ダミー和訳471",
+    "example": "This is a sample sentence using the word 'toeicword471'."
+  },
+  {
+    "english": "toeicword472",
+    "japanese": "ダミー和訳472",
+    "example": "This is a sample sentence using the word 'toeicword472'."
+  },
+  {
+    "english": "toeicword473",
+    "japanese": "ダミー和訳473",
+    "example": "This is a sample sentence using the word 'toeicword473'."
+  },
+  {
+    "english": "toeicword474",
+    "japanese": "ダミー和訳474",
+    "example": "This is a sample sentence using the word 'toeicword474'."
+  },
+  {
+    "english": "toeicword475",
+    "japanese": "ダミー和訳475",
+    "example": "This is a sample sentence using the word 'toeicword475'."
+  },
+  {
+    "english": "toeicword476",
+    "japanese": "ダミー和訳476",
+    "example": "This is a sample sentence using the word 'toeicword476'."
+  },
+  {
+    "english": "toeicword477",
+    "japanese": "ダミー和訳477",
+    "example": "This is a sample sentence using the word 'toeicword477'."
+  },
+  {
+    "english": "toeicword478",
+    "japanese": "ダミー和訳478",
+    "example": "This is a sample sentence using the word 'toeicword478'."
+  },
+  {
+    "english": "toeicword479",
+    "japanese": "ダミー和訳479",
+    "example": "This is a sample sentence using the word 'toeicword479'."
+  },
+  {
+    "english": "toeicword480",
+    "japanese": "ダミー和訳480",
+    "example": "This is a sample sentence using the word 'toeicword480'."
+  },
+  {
+    "english": "toeicword481",
+    "japanese": "ダミー和訳481",
+    "example": "This is a sample sentence using the word 'toeicword481'."
+  },
+  {
+    "english": "toeicword482",
+    "japanese": "ダミー和訳482",
+    "example": "This is a sample sentence using the word 'toeicword482'."
+  },
+  {
+    "english": "toeicword483",
+    "japanese": "ダミー和訳483",
+    "example": "This is a sample sentence using the word 'toeicword483'."
+  },
+  {
+    "english": "toeicword484",
+    "japanese": "ダミー和訳484",
+    "example": "This is a sample sentence using the word 'toeicword484'."
+  },
+  {
+    "english": "toeicword485",
+    "japanese": "ダミー和訳485",
+    "example": "This is a sample sentence using the word 'toeicword485'."
+  },
+  {
+    "english": "toeicword486",
+    "japanese": "ダミー和訳486",
+    "example": "This is a sample sentence using the word 'toeicword486'."
+  },
+  {
+    "english": "toeicword487",
+    "japanese": "ダミー和訳487",
+    "example": "This is a sample sentence using the word 'toeicword487'."
+  },
+  {
+    "english": "toeicword488",
+    "japanese": "ダミー和訳488",
+    "example": "This is a sample sentence using the word 'toeicword488'."
+  },
+  {
+    "english": "toeicword489",
+    "japanese": "ダミー和訳489",
+    "example": "This is a sample sentence using the word 'toeicword489'."
+  },
+  {
+    "english": "toeicword490",
+    "japanese": "ダミー和訳490",
+    "example": "This is a sample sentence using the word 'toeicword490'."
+  },
+  {
+    "english": "toeicword491",
+    "japanese": "ダミー和訳491",
+    "example": "This is a sample sentence using the word 'toeicword491'."
+  },
+  {
+    "english": "toeicword492",
+    "japanese": "ダミー和訳492",
+    "example": "This is a sample sentence using the word 'toeicword492'."
+  },
+  {
+    "english": "toeicword493",
+    "japanese": "ダミー和訳493",
+    "example": "This is a sample sentence using the word 'toeicword493'."
+  },
+  {
+    "english": "toeicword494",
+    "japanese": "ダミー和訳494",
+    "example": "This is a sample sentence using the word 'toeicword494'."
+  },
+  {
+    "english": "toeicword495",
+    "japanese": "ダミー和訳495",
+    "example": "This is a sample sentence using the word 'toeicword495'."
+  },
+  {
+    "english": "toeicword496",
+    "japanese": "ダミー和訳496",
+    "example": "This is a sample sentence using the word 'toeicword496'."
+  },
+  {
+    "english": "toeicword497",
+    "japanese": "ダミー和訳497",
+    "example": "This is a sample sentence using the word 'toeicword497'."
+  },
+  {
+    "english": "toeicword498",
+    "japanese": "ダミー和訳498",
+    "example": "This is a sample sentence using the word 'toeicword498'."
+  },
+  {
+    "english": "toeicword499",
+    "japanese": "ダミー和訳499",
+    "example": "This is a sample sentence using the word 'toeicword499'."
+  },
+  {
+    "english": "toeicword500",
+    "japanese": "ダミー和訳500",
+    "example": "This is a sample sentence using the word 'toeicword500'."
+  },
+  {
+    "english": "toeicword501",
+    "japanese": "ダミー和訳501",
+    "example": "This is a sample sentence using the word 'toeicword501'."
+  },
+  {
+    "english": "toeicword502",
+    "japanese": "ダミー和訳502",
+    "example": "This is a sample sentence using the word 'toeicword502'."
+  },
+  {
+    "english": "toeicword503",
+    "japanese": "ダミー和訳503",
+    "example": "This is a sample sentence using the word 'toeicword503'."
+  },
+  {
+    "english": "toeicword504",
+    "japanese": "ダミー和訳504",
+    "example": "This is a sample sentence using the word 'toeicword504'."
+  },
+  {
+    "english": "toeicword505",
+    "japanese": "ダミー和訳505",
+    "example": "This is a sample sentence using the word 'toeicword505'."
+  },
+  {
+    "english": "toeicword506",
+    "japanese": "ダミー和訳506",
+    "example": "This is a sample sentence using the word 'toeicword506'."
+  },
+  {
+    "english": "toeicword507",
+    "japanese": "ダミー和訳507",
+    "example": "This is a sample sentence using the word 'toeicword507'."
+  },
+  {
+    "english": "toeicword508",
+    "japanese": "ダミー和訳508",
+    "example": "This is a sample sentence using the word 'toeicword508'."
+  },
+  {
+    "english": "toeicword509",
+    "japanese": "ダミー和訳509",
+    "example": "This is a sample sentence using the word 'toeicword509'."
+  },
+  {
+    "english": "toeicword510",
+    "japanese": "ダミー和訳510",
+    "example": "This is a sample sentence using the word 'toeicword510'."
+  },
+  {
+    "english": "toeicword511",
+    "japanese": "ダミー和訳511",
+    "example": "This is a sample sentence using the word 'toeicword511'."
+  },
+  {
+    "english": "toeicword512",
+    "japanese": "ダミー和訳512",
+    "example": "This is a sample sentence using the word 'toeicword512'."
+  },
+  {
+    "english": "toeicword513",
+    "japanese": "ダミー和訳513",
+    "example": "This is a sample sentence using the word 'toeicword513'."
+  },
+  {
+    "english": "toeicword514",
+    "japanese": "ダミー和訳514",
+    "example": "This is a sample sentence using the word 'toeicword514'."
+  },
+  {
+    "english": "toeicword515",
+    "japanese": "ダミー和訳515",
+    "example": "This is a sample sentence using the word 'toeicword515'."
+  },
+  {
+    "english": "toeicword516",
+    "japanese": "ダミー和訳516",
+    "example": "This is a sample sentence using the word 'toeicword516'."
+  },
+  {
+    "english": "toeicword517",
+    "japanese": "ダミー和訳517",
+    "example": "This is a sample sentence using the word 'toeicword517'."
+  },
+  {
+    "english": "toeicword518",
+    "japanese": "ダミー和訳518",
+    "example": "This is a sample sentence using the word 'toeicword518'."
+  },
+  {
+    "english": "toeicword519",
+    "japanese": "ダミー和訳519",
+    "example": "This is a sample sentence using the word 'toeicword519'."
+  },
+  {
+    "english": "toeicword520",
+    "japanese": "ダミー和訳520",
+    "example": "This is a sample sentence using the word 'toeicword520'."
+  },
+  {
+    "english": "toeicword521",
+    "japanese": "ダミー和訳521",
+    "example": "This is a sample sentence using the word 'toeicword521'."
+  },
+  {
+    "english": "toeicword522",
+    "japanese": "ダミー和訳522",
+    "example": "This is a sample sentence using the word 'toeicword522'."
+  },
+  {
+    "english": "toeicword523",
+    "japanese": "ダミー和訳523",
+    "example": "This is a sample sentence using the word 'toeicword523'."
+  },
+  {
+    "english": "toeicword524",
+    "japanese": "ダミー和訳524",
+    "example": "This is a sample sentence using the word 'toeicword524'."
+  },
+  {
+    "english": "toeicword525",
+    "japanese": "ダミー和訳525",
+    "example": "This is a sample sentence using the word 'toeicword525'."
+  },
+  {
+    "english": "toeicword526",
+    "japanese": "ダミー和訳526",
+    "example": "This is a sample sentence using the word 'toeicword526'."
+  },
+  {
+    "english": "toeicword527",
+    "japanese": "ダミー和訳527",
+    "example": "This is a sample sentence using the word 'toeicword527'."
+  },
+  {
+    "english": "toeicword528",
+    "japanese": "ダミー和訳528",
+    "example": "This is a sample sentence using the word 'toeicword528'."
+  },
+  {
+    "english": "toeicword529",
+    "japanese": "ダミー和訳529",
+    "example": "This is a sample sentence using the word 'toeicword529'."
+  },
+  {
+    "english": "toeicword530",
+    "japanese": "ダミー和訳530",
+    "example": "This is a sample sentence using the word 'toeicword530'."
+  },
+  {
+    "english": "toeicword531",
+    "japanese": "ダミー和訳531",
+    "example": "This is a sample sentence using the word 'toeicword531'."
+  },
+  {
+    "english": "toeicword532",
+    "japanese": "ダミー和訳532",
+    "example": "This is a sample sentence using the word 'toeicword532'."
+  },
+  {
+    "english": "toeicword533",
+    "japanese": "ダミー和訳533",
+    "example": "This is a sample sentence using the word 'toeicword533'."
+  },
+  {
+    "english": "toeicword534",
+    "japanese": "ダミー和訳534",
+    "example": "This is a sample sentence using the word 'toeicword534'."
+  },
+  {
+    "english": "toeicword535",
+    "japanese": "ダミー和訳535",
+    "example": "This is a sample sentence using the word 'toeicword535'."
+  },
+  {
+    "english": "toeicword536",
+    "japanese": "ダミー和訳536",
+    "example": "This is a sample sentence using the word 'toeicword536'."
+  },
+  {
+    "english": "toeicword537",
+    "japanese": "ダミー和訳537",
+    "example": "This is a sample sentence using the word 'toeicword537'."
+  },
+  {
+    "english": "toeicword538",
+    "japanese": "ダミー和訳538",
+    "example": "This is a sample sentence using the word 'toeicword538'."
+  },
+  {
+    "english": "toeicword539",
+    "japanese": "ダミー和訳539",
+    "example": "This is a sample sentence using the word 'toeicword539'."
+  },
+  {
+    "english": "toeicword540",
+    "japanese": "ダミー和訳540",
+    "example": "This is a sample sentence using the word 'toeicword540'."
+  },
+  {
+    "english": "toeicword541",
+    "japanese": "ダミー和訳541",
+    "example": "This is a sample sentence using the word 'toeicword541'."
+  },
+  {
+    "english": "toeicword542",
+    "japanese": "ダミー和訳542",
+    "example": "This is a sample sentence using the word 'toeicword542'."
+  },
+  {
+    "english": "toeicword543",
+    "japanese": "ダミー和訳543",
+    "example": "This is a sample sentence using the word 'toeicword543'."
+  },
+  {
+    "english": "toeicword544",
+    "japanese": "ダミー和訳544",
+    "example": "This is a sample sentence using the word 'toeicword544'."
+  },
+  {
+    "english": "toeicword545",
+    "japanese": "ダミー和訳545",
+    "example": "This is a sample sentence using the word 'toeicword545'."
+  },
+  {
+    "english": "toeicword546",
+    "japanese": "ダミー和訳546",
+    "example": "This is a sample sentence using the word 'toeicword546'."
+  },
+  {
+    "english": "toeicword547",
+    "japanese": "ダミー和訳547",
+    "example": "This is a sample sentence using the word 'toeicword547'."
+  },
+  {
+    "english": "toeicword548",
+    "japanese": "ダミー和訳548",
+    "example": "This is a sample sentence using the word 'toeicword548'."
+  },
+  {
+    "english": "toeicword549",
+    "japanese": "ダミー和訳549",
+    "example": "This is a sample sentence using the word 'toeicword549'."
+  },
+  {
+    "english": "toeicword550",
+    "japanese": "ダミー和訳550",
+    "example": "This is a sample sentence using the word 'toeicword550'."
+  },
+  {
+    "english": "toeicword551",
+    "japanese": "ダミー和訳551",
+    "example": "This is a sample sentence using the word 'toeicword551'."
+  },
+  {
+    "english": "toeicword552",
+    "japanese": "ダミー和訳552",
+    "example": "This is a sample sentence using the word 'toeicword552'."
+  },
+  {
+    "english": "toeicword553",
+    "japanese": "ダミー和訳553",
+    "example": "This is a sample sentence using the word 'toeicword553'."
+  },
+  {
+    "english": "toeicword554",
+    "japanese": "ダミー和訳554",
+    "example": "This is a sample sentence using the word 'toeicword554'."
+  },
+  {
+    "english": "toeicword555",
+    "japanese": "ダミー和訳555",
+    "example": "This is a sample sentence using the word 'toeicword555'."
+  },
+  {
+    "english": "toeicword556",
+    "japanese": "ダミー和訳556",
+    "example": "This is a sample sentence using the word 'toeicword556'."
+  },
+  {
+    "english": "toeicword557",
+    "japanese": "ダミー和訳557",
+    "example": "This is a sample sentence using the word 'toeicword557'."
+  },
+  {
+    "english": "toeicword558",
+    "japanese": "ダミー和訳558",
+    "example": "This is a sample sentence using the word 'toeicword558'."
+  },
+  {
+    "english": "toeicword559",
+    "japanese": "ダミー和訳559",
+    "example": "This is a sample sentence using the word 'toeicword559'."
+  },
+  {
+    "english": "toeicword560",
+    "japanese": "ダミー和訳560",
+    "example": "This is a sample sentence using the word 'toeicword560'."
+  },
+  {
+    "english": "toeicword561",
+    "japanese": "ダミー和訳561",
+    "example": "This is a sample sentence using the word 'toeicword561'."
+  },
+  {
+    "english": "toeicword562",
+    "japanese": "ダミー和訳562",
+    "example": "This is a sample sentence using the word 'toeicword562'."
+  },
+  {
+    "english": "toeicword563",
+    "japanese": "ダミー和訳563",
+    "example": "This is a sample sentence using the word 'toeicword563'."
+  },
+  {
+    "english": "toeicword564",
+    "japanese": "ダミー和訳564",
+    "example": "This is a sample sentence using the word 'toeicword564'."
+  },
+  {
+    "english": "toeicword565",
+    "japanese": "ダミー和訳565",
+    "example": "This is a sample sentence using the word 'toeicword565'."
+  },
+  {
+    "english": "toeicword566",
+    "japanese": "ダミー和訳566",
+    "example": "This is a sample sentence using the word 'toeicword566'."
+  },
+  {
+    "english": "toeicword567",
+    "japanese": "ダミー和訳567",
+    "example": "This is a sample sentence using the word 'toeicword567'."
+  },
+  {
+    "english": "toeicword568",
+    "japanese": "ダミー和訳568",
+    "example": "This is a sample sentence using the word 'toeicword568'."
+  },
+  {
+    "english": "toeicword569",
+    "japanese": "ダミー和訳569",
+    "example": "This is a sample sentence using the word 'toeicword569'."
+  },
+  {
+    "english": "toeicword570",
+    "japanese": "ダミー和訳570",
+    "example": "This is a sample sentence using the word 'toeicword570'."
+  },
+  {
+    "english": "toeicword571",
+    "japanese": "ダミー和訳571",
+    "example": "This is a sample sentence using the word 'toeicword571'."
+  },
+  {
+    "english": "toeicword572",
+    "japanese": "ダミー和訳572",
+    "example": "This is a sample sentence using the word 'toeicword572'."
+  },
+  {
+    "english": "toeicword573",
+    "japanese": "ダミー和訳573",
+    "example": "This is a sample sentence using the word 'toeicword573'."
+  },
+  {
+    "english": "toeicword574",
+    "japanese": "ダミー和訳574",
+    "example": "This is a sample sentence using the word 'toeicword574'."
+  },
+  {
+    "english": "toeicword575",
+    "japanese": "ダミー和訳575",
+    "example": "This is a sample sentence using the word 'toeicword575'."
+  },
+  {
+    "english": "toeicword576",
+    "japanese": "ダミー和訳576",
+    "example": "This is a sample sentence using the word 'toeicword576'."
+  },
+  {
+    "english": "toeicword577",
+    "japanese": "ダミー和訳577",
+    "example": "This is a sample sentence using the word 'toeicword577'."
+  },
+  {
+    "english": "toeicword578",
+    "japanese": "ダミー和訳578",
+    "example": "This is a sample sentence using the word 'toeicword578'."
+  },
+  {
+    "english": "toeicword579",
+    "japanese": "ダミー和訳579",
+    "example": "This is a sample sentence using the word 'toeicword579'."
+  },
+  {
+    "english": "toeicword580",
+    "japanese": "ダミー和訳580",
+    "example": "This is a sample sentence using the word 'toeicword580'."
+  },
+  {
+    "english": "toeicword581",
+    "japanese": "ダミー和訳581",
+    "example": "This is a sample sentence using the word 'toeicword581'."
+  },
+  {
+    "english": "toeicword582",
+    "japanese": "ダミー和訳582",
+    "example": "This is a sample sentence using the word 'toeicword582'."
+  },
+  {
+    "english": "toeicword583",
+    "japanese": "ダミー和訳583",
+    "example": "This is a sample sentence using the word 'toeicword583'."
+  },
+  {
+    "english": "toeicword584",
+    "japanese": "ダミー和訳584",
+    "example": "This is a sample sentence using the word 'toeicword584'."
+  },
+  {
+    "english": "toeicword585",
+    "japanese": "ダミー和訳585",
+    "example": "This is a sample sentence using the word 'toeicword585'."
+  },
+  {
+    "english": "toeicword586",
+    "japanese": "ダミー和訳586",
+    "example": "This is a sample sentence using the word 'toeicword586'."
+  },
+  {
+    "english": "toeicword587",
+    "japanese": "ダミー和訳587",
+    "example": "This is a sample sentence using the word 'toeicword587'."
+  },
+  {
+    "english": "toeicword588",
+    "japanese": "ダミー和訳588",
+    "example": "This is a sample sentence using the word 'toeicword588'."
+  },
+  {
+    "english": "toeicword589",
+    "japanese": "ダミー和訳589",
+    "example": "This is a sample sentence using the word 'toeicword589'."
+  },
+  {
+    "english": "toeicword590",
+    "japanese": "ダミー和訳590",
+    "example": "This is a sample sentence using the word 'toeicword590'."
+  },
+  {
+    "english": "toeicword591",
+    "japanese": "ダミー和訳591",
+    "example": "This is a sample sentence using the word 'toeicword591'."
+  },
+  {
+    "english": "toeicword592",
+    "japanese": "ダミー和訳592",
+    "example": "This is a sample sentence using the word 'toeicword592'."
+  },
+  {
+    "english": "toeicword593",
+    "japanese": "ダミー和訳593",
+    "example": "This is a sample sentence using the word 'toeicword593'."
+  },
+  {
+    "english": "toeicword594",
+    "japanese": "ダミー和訳594",
+    "example": "This is a sample sentence using the word 'toeicword594'."
+  },
+  {
+    "english": "toeicword595",
+    "japanese": "ダミー和訳595",
+    "example": "This is a sample sentence using the word 'toeicword595'."
+  },
+  {
+    "english": "toeicword596",
+    "japanese": "ダミー和訳596",
+    "example": "This is a sample sentence using the word 'toeicword596'."
+  },
+  {
+    "english": "toeicword597",
+    "japanese": "ダミー和訳597",
+    "example": "This is a sample sentence using the word 'toeicword597'."
+  },
+  {
+    "english": "toeicword598",
+    "japanese": "ダミー和訳598",
+    "example": "This is a sample sentence using the word 'toeicword598'."
+  },
+  {
+    "english": "toeicword599",
+    "japanese": "ダミー和訳599",
+    "example": "This is a sample sentence using the word 'toeicword599'."
+  },
+  {
+    "english": "toeicword600",
+    "japanese": "ダミー和訳600",
+    "example": "This is a sample sentence using the word 'toeicword600'."
+  },
+  {
+    "english": "toeicword601",
+    "japanese": "ダミー和訳601",
+    "example": "This is a sample sentence using the word 'toeicword601'."
+  },
+  {
+    "english": "toeicword602",
+    "japanese": "ダミー和訳602",
+    "example": "This is a sample sentence using the word 'toeicword602'."
+  },
+  {
+    "english": "toeicword603",
+    "japanese": "ダミー和訳603",
+    "example": "This is a sample sentence using the word 'toeicword603'."
+  },
+  {
+    "english": "toeicword604",
+    "japanese": "ダミー和訳604",
+    "example": "This is a sample sentence using the word 'toeicword604'."
+  },
+  {
+    "english": "toeicword605",
+    "japanese": "ダミー和訳605",
+    "example": "This is a sample sentence using the word 'toeicword605'."
+  },
+  {
+    "english": "toeicword606",
+    "japanese": "ダミー和訳606",
+    "example": "This is a sample sentence using the word 'toeicword606'."
+  },
+  {
+    "english": "toeicword607",
+    "japanese": "ダミー和訳607",
+    "example": "This is a sample sentence using the word 'toeicword607'."
+  },
+  {
+    "english": "toeicword608",
+    "japanese": "ダミー和訳608",
+    "example": "This is a sample sentence using the word 'toeicword608'."
+  },
+  {
+    "english": "toeicword609",
+    "japanese": "ダミー和訳609",
+    "example": "This is a sample sentence using the word 'toeicword609'."
+  },
+  {
+    "english": "toeicword610",
+    "japanese": "ダミー和訳610",
+    "example": "This is a sample sentence using the word 'toeicword610'."
+  },
+  {
+    "english": "toeicword611",
+    "japanese": "ダミー和訳611",
+    "example": "This is a sample sentence using the word 'toeicword611'."
+  },
+  {
+    "english": "toeicword612",
+    "japanese": "ダミー和訳612",
+    "example": "This is a sample sentence using the word 'toeicword612'."
+  },
+  {
+    "english": "toeicword613",
+    "japanese": "ダミー和訳613",
+    "example": "This is a sample sentence using the word 'toeicword613'."
+  },
+  {
+    "english": "toeicword614",
+    "japanese": "ダミー和訳614",
+    "example": "This is a sample sentence using the word 'toeicword614'."
+  },
+  {
+    "english": "toeicword615",
+    "japanese": "ダミー和訳615",
+    "example": "This is a sample sentence using the word 'toeicword615'."
+  },
+  {
+    "english": "toeicword616",
+    "japanese": "ダミー和訳616",
+    "example": "This is a sample sentence using the word 'toeicword616'."
+  },
+  {
+    "english": "toeicword617",
+    "japanese": "ダミー和訳617",
+    "example": "This is a sample sentence using the word 'toeicword617'."
+  },
+  {
+    "english": "toeicword618",
+    "japanese": "ダミー和訳618",
+    "example": "This is a sample sentence using the word 'toeicword618'."
+  },
+  {
+    "english": "toeicword619",
+    "japanese": "ダミー和訳619",
+    "example": "This is a sample sentence using the word 'toeicword619'."
+  },
+  {
+    "english": "toeicword620",
+    "japanese": "ダミー和訳620",
+    "example": "This is a sample sentence using the word 'toeicword620'."
+  },
+  {
+    "english": "toeicword621",
+    "japanese": "ダミー和訳621",
+    "example": "This is a sample sentence using the word 'toeicword621'."
+  },
+  {
+    "english": "toeicword622",
+    "japanese": "ダミー和訳622",
+    "example": "This is a sample sentence using the word 'toeicword622'."
+  },
+  {
+    "english": "toeicword623",
+    "japanese": "ダミー和訳623",
+    "example": "This is a sample sentence using the word 'toeicword623'."
+  },
+  {
+    "english": "toeicword624",
+    "japanese": "ダミー和訳624",
+    "example": "This is a sample sentence using the word 'toeicword624'."
+  },
+  {
+    "english": "toeicword625",
+    "japanese": "ダミー和訳625",
+    "example": "This is a sample sentence using the word 'toeicword625'."
+  },
+  {
+    "english": "toeicword626",
+    "japanese": "ダミー和訳626",
+    "example": "This is a sample sentence using the word 'toeicword626'."
+  },
+  {
+    "english": "toeicword627",
+    "japanese": "ダミー和訳627",
+    "example": "This is a sample sentence using the word 'toeicword627'."
+  },
+  {
+    "english": "toeicword628",
+    "japanese": "ダミー和訳628",
+    "example": "This is a sample sentence using the word 'toeicword628'."
+  },
+  {
+    "english": "toeicword629",
+    "japanese": "ダミー和訳629",
+    "example": "This is a sample sentence using the word 'toeicword629'."
+  },
+  {
+    "english": "toeicword630",
+    "japanese": "ダミー和訳630",
+    "example": "This is a sample sentence using the word 'toeicword630'."
+  },
+  {
+    "english": "toeicword631",
+    "japanese": "ダミー和訳631",
+    "example": "This is a sample sentence using the word 'toeicword631'."
+  },
+  {
+    "english": "toeicword632",
+    "japanese": "ダミー和訳632",
+    "example": "This is a sample sentence using the word 'toeicword632'."
+  },
+  {
+    "english": "toeicword633",
+    "japanese": "ダミー和訳633",
+    "example": "This is a sample sentence using the word 'toeicword633'."
+  },
+  {
+    "english": "toeicword634",
+    "japanese": "ダミー和訳634",
+    "example": "This is a sample sentence using the word 'toeicword634'."
+  },
+  {
+    "english": "toeicword635",
+    "japanese": "ダミー和訳635",
+    "example": "This is a sample sentence using the word 'toeicword635'."
+  },
+  {
+    "english": "toeicword636",
+    "japanese": "ダミー和訳636",
+    "example": "This is a sample sentence using the word 'toeicword636'."
+  },
+  {
+    "english": "toeicword637",
+    "japanese": "ダミー和訳637",
+    "example": "This is a sample sentence using the word 'toeicword637'."
+  },
+  {
+    "english": "toeicword638",
+    "japanese": "ダミー和訳638",
+    "example": "This is a sample sentence using the word 'toeicword638'."
+  },
+  {
+    "english": "toeicword639",
+    "japanese": "ダミー和訳639",
+    "example": "This is a sample sentence using the word 'toeicword639'."
+  },
+  {
+    "english": "toeicword640",
+    "japanese": "ダミー和訳640",
+    "example": "This is a sample sentence using the word 'toeicword640'."
+  },
+  {
+    "english": "toeicword641",
+    "japanese": "ダミー和訳641",
+    "example": "This is a sample sentence using the word 'toeicword641'."
+  },
+  {
+    "english": "toeicword642",
+    "japanese": "ダミー和訳642",
+    "example": "This is a sample sentence using the word 'toeicword642'."
+  },
+  {
+    "english": "toeicword643",
+    "japanese": "ダミー和訳643",
+    "example": "This is a sample sentence using the word 'toeicword643'."
+  },
+  {
+    "english": "toeicword644",
+    "japanese": "ダミー和訳644",
+    "example": "This is a sample sentence using the word 'toeicword644'."
+  },
+  {
+    "english": "toeicword645",
+    "japanese": "ダミー和訳645",
+    "example": "This is a sample sentence using the word 'toeicword645'."
+  },
+  {
+    "english": "toeicword646",
+    "japanese": "ダミー和訳646",
+    "example": "This is a sample sentence using the word 'toeicword646'."
+  },
+  {
+    "english": "toeicword647",
+    "japanese": "ダミー和訳647",
+    "example": "This is a sample sentence using the word 'toeicword647'."
+  },
+  {
+    "english": "toeicword648",
+    "japanese": "ダミー和訳648",
+    "example": "This is a sample sentence using the word 'toeicword648'."
+  },
+  {
+    "english": "toeicword649",
+    "japanese": "ダミー和訳649",
+    "example": "This is a sample sentence using the word 'toeicword649'."
+  },
+  {
+    "english": "toeicword650",
+    "japanese": "ダミー和訳650",
+    "example": "This is a sample sentence using the word 'toeicword650'."
+  },
+  {
+    "english": "toeicword651",
+    "japanese": "ダミー和訳651",
+    "example": "This is a sample sentence using the word 'toeicword651'."
+  },
+  {
+    "english": "toeicword652",
+    "japanese": "ダミー和訳652",
+    "example": "This is a sample sentence using the word 'toeicword652'."
+  },
+  {
+    "english": "toeicword653",
+    "japanese": "ダミー和訳653",
+    "example": "This is a sample sentence using the word 'toeicword653'."
+  },
+  {
+    "english": "toeicword654",
+    "japanese": "ダミー和訳654",
+    "example": "This is a sample sentence using the word 'toeicword654'."
+  },
+  {
+    "english": "toeicword655",
+    "japanese": "ダミー和訳655",
+    "example": "This is a sample sentence using the word 'toeicword655'."
+  },
+  {
+    "english": "toeicword656",
+    "japanese": "ダミー和訳656",
+    "example": "This is a sample sentence using the word 'toeicword656'."
+  },
+  {
+    "english": "toeicword657",
+    "japanese": "ダミー和訳657",
+    "example": "This is a sample sentence using the word 'toeicword657'."
+  },
+  {
+    "english": "toeicword658",
+    "japanese": "ダミー和訳658",
+    "example": "This is a sample sentence using the word 'toeicword658'."
+  },
+  {
+    "english": "toeicword659",
+    "japanese": "ダミー和訳659",
+    "example": "This is a sample sentence using the word 'toeicword659'."
+  },
+  {
+    "english": "toeicword660",
+    "japanese": "ダミー和訳660",
+    "example": "This is a sample sentence using the word 'toeicword660'."
+  },
+  {
+    "english": "toeicword661",
+    "japanese": "ダミー和訳661",
+    "example": "This is a sample sentence using the word 'toeicword661'."
+  },
+  {
+    "english": "toeicword662",
+    "japanese": "ダミー和訳662",
+    "example": "This is a sample sentence using the word 'toeicword662'."
+  },
+  {
+    "english": "toeicword663",
+    "japanese": "ダミー和訳663",
+    "example": "This is a sample sentence using the word 'toeicword663'."
+  },
+  {
+    "english": "toeicword664",
+    "japanese": "ダミー和訳664",
+    "example": "This is a sample sentence using the word 'toeicword664'."
+  },
+  {
+    "english": "toeicword665",
+    "japanese": "ダミー和訳665",
+    "example": "This is a sample sentence using the word 'toeicword665'."
+  },
+  {
+    "english": "toeicword666",
+    "japanese": "ダミー和訳666",
+    "example": "This is a sample sentence using the word 'toeicword666'."
+  },
+  {
+    "english": "toeicword667",
+    "japanese": "ダミー和訳667",
+    "example": "This is a sample sentence using the word 'toeicword667'."
+  },
+  {
+    "english": "toeicword668",
+    "japanese": "ダミー和訳668",
+    "example": "This is a sample sentence using the word 'toeicword668'."
+  },
+  {
+    "english": "toeicword669",
+    "japanese": "ダミー和訳669",
+    "example": "This is a sample sentence using the word 'toeicword669'."
+  },
+  {
+    "english": "toeicword670",
+    "japanese": "ダミー和訳670",
+    "example": "This is a sample sentence using the word 'toeicword670'."
+  },
+  {
+    "english": "toeicword671",
+    "japanese": "ダミー和訳671",
+    "example": "This is a sample sentence using the word 'toeicword671'."
+  },
+  {
+    "english": "toeicword672",
+    "japanese": "ダミー和訳672",
+    "example": "This is a sample sentence using the word 'toeicword672'."
+  },
+  {
+    "english": "toeicword673",
+    "japanese": "ダミー和訳673",
+    "example": "This is a sample sentence using the word 'toeicword673'."
+  },
+  {
+    "english": "toeicword674",
+    "japanese": "ダミー和訳674",
+    "example": "This is a sample sentence using the word 'toeicword674'."
+  },
+  {
+    "english": "toeicword675",
+    "japanese": "ダミー和訳675",
+    "example": "This is a sample sentence using the word 'toeicword675'."
+  },
+  {
+    "english": "toeicword676",
+    "japanese": "ダミー和訳676",
+    "example": "This is a sample sentence using the word 'toeicword676'."
+  },
+  {
+    "english": "toeicword677",
+    "japanese": "ダミー和訳677",
+    "example": "This is a sample sentence using the word 'toeicword677'."
+  },
+  {
+    "english": "toeicword678",
+    "japanese": "ダミー和訳678",
+    "example": "This is a sample sentence using the word 'toeicword678'."
+  },
+  {
+    "english": "toeicword679",
+    "japanese": "ダミー和訳679",
+    "example": "This is a sample sentence using the word 'toeicword679'."
+  },
+  {
+    "english": "toeicword680",
+    "japanese": "ダミー和訳680",
+    "example": "This is a sample sentence using the word 'toeicword680'."
+  },
+  {
+    "english": "toeicword681",
+    "japanese": "ダミー和訳681",
+    "example": "This is a sample sentence using the word 'toeicword681'."
+  },
+  {
+    "english": "toeicword682",
+    "japanese": "ダミー和訳682",
+    "example": "This is a sample sentence using the word 'toeicword682'."
+  },
+  {
+    "english": "toeicword683",
+    "japanese": "ダミー和訳683",
+    "example": "This is a sample sentence using the word 'toeicword683'."
+  },
+  {
+    "english": "toeicword684",
+    "japanese": "ダミー和訳684",
+    "example": "This is a sample sentence using the word 'toeicword684'."
+  },
+  {
+    "english": "toeicword685",
+    "japanese": "ダミー和訳685",
+    "example": "This is a sample sentence using the word 'toeicword685'."
+  },
+  {
+    "english": "toeicword686",
+    "japanese": "ダミー和訳686",
+    "example": "This is a sample sentence using the word 'toeicword686'."
+  },
+  {
+    "english": "toeicword687",
+    "japanese": "ダミー和訳687",
+    "example": "This is a sample sentence using the word 'toeicword687'."
+  },
+  {
+    "english": "toeicword688",
+    "japanese": "ダミー和訳688",
+    "example": "This is a sample sentence using the word 'toeicword688'."
+  },
+  {
+    "english": "toeicword689",
+    "japanese": "ダミー和訳689",
+    "example": "This is a sample sentence using the word 'toeicword689'."
+  },
+  {
+    "english": "toeicword690",
+    "japanese": "ダミー和訳690",
+    "example": "This is a sample sentence using the word 'toeicword690'."
+  },
+  {
+    "english": "toeicword691",
+    "japanese": "ダミー和訳691",
+    "example": "This is a sample sentence using the word 'toeicword691'."
+  },
+  {
+    "english": "toeicword692",
+    "japanese": "ダミー和訳692",
+    "example": "This is a sample sentence using the word 'toeicword692'."
+  },
+  {
+    "english": "toeicword693",
+    "japanese": "ダミー和訳693",
+    "example": "This is a sample sentence using the word 'toeicword693'."
+  },
+  {
+    "english": "toeicword694",
+    "japanese": "ダミー和訳694",
+    "example": "This is a sample sentence using the word 'toeicword694'."
+  },
+  {
+    "english": "toeicword695",
+    "japanese": "ダミー和訳695",
+    "example": "This is a sample sentence using the word 'toeicword695'."
+  },
+  {
+    "english": "toeicword696",
+    "japanese": "ダミー和訳696",
+    "example": "This is a sample sentence using the word 'toeicword696'."
+  },
+  {
+    "english": "toeicword697",
+    "japanese": "ダミー和訳697",
+    "example": "This is a sample sentence using the word 'toeicword697'."
+  },
+  {
+    "english": "toeicword698",
+    "japanese": "ダミー和訳698",
+    "example": "This is a sample sentence using the word 'toeicword698'."
+  },
+  {
+    "english": "toeicword699",
+    "japanese": "ダミー和訳699",
+    "example": "This is a sample sentence using the word 'toeicword699'."
+  },
+  {
+    "english": "toeicword700",
+    "japanese": "ダミー和訳700",
+    "example": "This is a sample sentence using the word 'toeicword700'."
+  },
+  {
+    "english": "toeicword701",
+    "japanese": "ダミー和訳701",
+    "example": "This is a sample sentence using the word 'toeicword701'."
+  },
+  {
+    "english": "toeicword702",
+    "japanese": "ダミー和訳702",
+    "example": "This is a sample sentence using the word 'toeicword702'."
+  },
+  {
+    "english": "toeicword703",
+    "japanese": "ダミー和訳703",
+    "example": "This is a sample sentence using the word 'toeicword703'."
+  },
+  {
+    "english": "toeicword704",
+    "japanese": "ダミー和訳704",
+    "example": "This is a sample sentence using the word 'toeicword704'."
+  },
+  {
+    "english": "toeicword705",
+    "japanese": "ダミー和訳705",
+    "example": "This is a sample sentence using the word 'toeicword705'."
+  },
+  {
+    "english": "toeicword706",
+    "japanese": "ダミー和訳706",
+    "example": "This is a sample sentence using the word 'toeicword706'."
+  },
+  {
+    "english": "toeicword707",
+    "japanese": "ダミー和訳707",
+    "example": "This is a sample sentence using the word 'toeicword707'."
+  },
+  {
+    "english": "toeicword708",
+    "japanese": "ダミー和訳708",
+    "example": "This is a sample sentence using the word 'toeicword708'."
+  },
+  {
+    "english": "toeicword709",
+    "japanese": "ダミー和訳709",
+    "example": "This is a sample sentence using the word 'toeicword709'."
+  },
+  {
+    "english": "toeicword710",
+    "japanese": "ダミー和訳710",
+    "example": "This is a sample sentence using the word 'toeicword710'."
+  },
+  {
+    "english": "toeicword711",
+    "japanese": "ダミー和訳711",
+    "example": "This is a sample sentence using the word 'toeicword711'."
+  },
+  {
+    "english": "toeicword712",
+    "japanese": "ダミー和訳712",
+    "example": "This is a sample sentence using the word 'toeicword712'."
+  },
+  {
+    "english": "toeicword713",
+    "japanese": "ダミー和訳713",
+    "example": "This is a sample sentence using the word 'toeicword713'."
+  },
+  {
+    "english": "toeicword714",
+    "japanese": "ダミー和訳714",
+    "example": "This is a sample sentence using the word 'toeicword714'."
+  },
+  {
+    "english": "toeicword715",
+    "japanese": "ダミー和訳715",
+    "example": "This is a sample sentence using the word 'toeicword715'."
+  },
+  {
+    "english": "toeicword716",
+    "japanese": "ダミー和訳716",
+    "example": "This is a sample sentence using the word 'toeicword716'."
+  },
+  {
+    "english": "toeicword717",
+    "japanese": "ダミー和訳717",
+    "example": "This is a sample sentence using the word 'toeicword717'."
+  },
+  {
+    "english": "toeicword718",
+    "japanese": "ダミー和訳718",
+    "example": "This is a sample sentence using the word 'toeicword718'."
+  },
+  {
+    "english": "toeicword719",
+    "japanese": "ダミー和訳719",
+    "example": "This is a sample sentence using the word 'toeicword719'."
+  },
+  {
+    "english": "toeicword720",
+    "japanese": "ダミー和訳720",
+    "example": "This is a sample sentence using the word 'toeicword720'."
+  },
+  {
+    "english": "toeicword721",
+    "japanese": "ダミー和訳721",
+    "example": "This is a sample sentence using the word 'toeicword721'."
+  },
+  {
+    "english": "toeicword722",
+    "japanese": "ダミー和訳722",
+    "example": "This is a sample sentence using the word 'toeicword722'."
+  },
+  {
+    "english": "toeicword723",
+    "japanese": "ダミー和訳723",
+    "example": "This is a sample sentence using the word 'toeicword723'."
+  },
+  {
+    "english": "toeicword724",
+    "japanese": "ダミー和訳724",
+    "example": "This is a sample sentence using the word 'toeicword724'."
+  },
+  {
+    "english": "toeicword725",
+    "japanese": "ダミー和訳725",
+    "example": "This is a sample sentence using the word 'toeicword725'."
+  },
+  {
+    "english": "toeicword726",
+    "japanese": "ダミー和訳726",
+    "example": "This is a sample sentence using the word 'toeicword726'."
+  },
+  {
+    "english": "toeicword727",
+    "japanese": "ダミー和訳727",
+    "example": "This is a sample sentence using the word 'toeicword727'."
+  },
+  {
+    "english": "toeicword728",
+    "japanese": "ダミー和訳728",
+    "example": "This is a sample sentence using the word 'toeicword728'."
+  },
+  {
+    "english": "toeicword729",
+    "japanese": "ダミー和訳729",
+    "example": "This is a sample sentence using the word 'toeicword729'."
+  },
+  {
+    "english": "toeicword730",
+    "japanese": "ダミー和訳730",
+    "example": "This is a sample sentence using the word 'toeicword730'."
+  },
+  {
+    "english": "toeicword731",
+    "japanese": "ダミー和訳731",
+    "example": "This is a sample sentence using the word 'toeicword731'."
+  },
+  {
+    "english": "toeicword732",
+    "japanese": "ダミー和訳732",
+    "example": "This is a sample sentence using the word 'toeicword732'."
+  },
+  {
+    "english": "toeicword733",
+    "japanese": "ダミー和訳733",
+    "example": "This is a sample sentence using the word 'toeicword733'."
+  },
+  {
+    "english": "toeicword734",
+    "japanese": "ダミー和訳734",
+    "example": "This is a sample sentence using the word 'toeicword734'."
+  },
+  {
+    "english": "toeicword735",
+    "japanese": "ダミー和訳735",
+    "example": "This is a sample sentence using the word 'toeicword735'."
+  },
+  {
+    "english": "toeicword736",
+    "japanese": "ダミー和訳736",
+    "example": "This is a sample sentence using the word 'toeicword736'."
+  },
+  {
+    "english": "toeicword737",
+    "japanese": "ダミー和訳737",
+    "example": "This is a sample sentence using the word 'toeicword737'."
+  },
+  {
+    "english": "toeicword738",
+    "japanese": "ダミー和訳738",
+    "example": "This is a sample sentence using the word 'toeicword738'."
+  },
+  {
+    "english": "toeicword739",
+    "japanese": "ダミー和訳739",
+    "example": "This is a sample sentence using the word 'toeicword739'."
+  },
+  {
+    "english": "toeicword740",
+    "japanese": "ダミー和訳740",
+    "example": "This is a sample sentence using the word 'toeicword740'."
+  },
+  {
+    "english": "toeicword741",
+    "japanese": "ダミー和訳741",
+    "example": "This is a sample sentence using the word 'toeicword741'."
+  },
+  {
+    "english": "toeicword742",
+    "japanese": "ダミー和訳742",
+    "example": "This is a sample sentence using the word 'toeicword742'."
+  },
+  {
+    "english": "toeicword743",
+    "japanese": "ダミー和訳743",
+    "example": "This is a sample sentence using the word 'toeicword743'."
+  },
+  {
+    "english": "toeicword744",
+    "japanese": "ダミー和訳744",
+    "example": "This is a sample sentence using the word 'toeicword744'."
+  },
+  {
+    "english": "toeicword745",
+    "japanese": "ダミー和訳745",
+    "example": "This is a sample sentence using the word 'toeicword745'."
+  },
+  {
+    "english": "toeicword746",
+    "japanese": "ダミー和訳746",
+    "example": "This is a sample sentence using the word 'toeicword746'."
+  },
+  {
+    "english": "toeicword747",
+    "japanese": "ダミー和訳747",
+    "example": "This is a sample sentence using the word 'toeicword747'."
+  },
+  {
+    "english": "toeicword748",
+    "japanese": "ダミー和訳748",
+    "example": "This is a sample sentence using the word 'toeicword748'."
+  },
+  {
+    "english": "toeicword749",
+    "japanese": "ダミー和訳749",
+    "example": "This is a sample sentence using the word 'toeicword749'."
+  },
+  {
+    "english": "toeicword750",
+    "japanese": "ダミー和訳750",
+    "example": "This is a sample sentence using the word 'toeicword750'."
+  },
+  {
+    "english": "toeicword751",
+    "japanese": "ダミー和訳751",
+    "example": "This is a sample sentence using the word 'toeicword751'."
+  },
+  {
+    "english": "toeicword752",
+    "japanese": "ダミー和訳752",
+    "example": "This is a sample sentence using the word 'toeicword752'."
+  },
+  {
+    "english": "toeicword753",
+    "japanese": "ダミー和訳753",
+    "example": "This is a sample sentence using the word 'toeicword753'."
+  },
+  {
+    "english": "toeicword754",
+    "japanese": "ダミー和訳754",
+    "example": "This is a sample sentence using the word 'toeicword754'."
+  },
+  {
+    "english": "toeicword755",
+    "japanese": "ダミー和訳755",
+    "example": "This is a sample sentence using the word 'toeicword755'."
+  },
+  {
+    "english": "toeicword756",
+    "japanese": "ダミー和訳756",
+    "example": "This is a sample sentence using the word 'toeicword756'."
+  },
+  {
+    "english": "toeicword757",
+    "japanese": "ダミー和訳757",
+    "example": "This is a sample sentence using the word 'toeicword757'."
+  },
+  {
+    "english": "toeicword758",
+    "japanese": "ダミー和訳758",
+    "example": "This is a sample sentence using the word 'toeicword758'."
+  },
+  {
+    "english": "toeicword759",
+    "japanese": "ダミー和訳759",
+    "example": "This is a sample sentence using the word 'toeicword759'."
+  },
+  {
+    "english": "toeicword760",
+    "japanese": "ダミー和訳760",
+    "example": "This is a sample sentence using the word 'toeicword760'."
+  },
+  {
+    "english": "toeicword761",
+    "japanese": "ダミー和訳761",
+    "example": "This is a sample sentence using the word 'toeicword761'."
+  },
+  {
+    "english": "toeicword762",
+    "japanese": "ダミー和訳762",
+    "example": "This is a sample sentence using the word 'toeicword762'."
+  },
+  {
+    "english": "toeicword763",
+    "japanese": "ダミー和訳763",
+    "example": "This is a sample sentence using the word 'toeicword763'."
+  },
+  {
+    "english": "toeicword764",
+    "japanese": "ダミー和訳764",
+    "example": "This is a sample sentence using the word 'toeicword764'."
+  },
+  {
+    "english": "toeicword765",
+    "japanese": "ダミー和訳765",
+    "example": "This is a sample sentence using the word 'toeicword765'."
+  },
+  {
+    "english": "toeicword766",
+    "japanese": "ダミー和訳766",
+    "example": "This is a sample sentence using the word 'toeicword766'."
+  },
+  {
+    "english": "toeicword767",
+    "japanese": "ダミー和訳767",
+    "example": "This is a sample sentence using the word 'toeicword767'."
+  },
+  {
+    "english": "toeicword768",
+    "japanese": "ダミー和訳768",
+    "example": "This is a sample sentence using the word 'toeicword768'."
+  },
+  {
+    "english": "toeicword769",
+    "japanese": "ダミー和訳769",
+    "example": "This is a sample sentence using the word 'toeicword769'."
+  },
+  {
+    "english": "toeicword770",
+    "japanese": "ダミー和訳770",
+    "example": "This is a sample sentence using the word 'toeicword770'."
+  },
+  {
+    "english": "toeicword771",
+    "japanese": "ダミー和訳771",
+    "example": "This is a sample sentence using the word 'toeicword771'."
+  },
+  {
+    "english": "toeicword772",
+    "japanese": "ダミー和訳772",
+    "example": "This is a sample sentence using the word 'toeicword772'."
+  },
+  {
+    "english": "toeicword773",
+    "japanese": "ダミー和訳773",
+    "example": "This is a sample sentence using the word 'toeicword773'."
+  },
+  {
+    "english": "toeicword774",
+    "japanese": "ダミー和訳774",
+    "example": "This is a sample sentence using the word 'toeicword774'."
+  },
+  {
+    "english": "toeicword775",
+    "japanese": "ダミー和訳775",
+    "example": "This is a sample sentence using the word 'toeicword775'."
+  },
+  {
+    "english": "toeicword776",
+    "japanese": "ダミー和訳776",
+    "example": "This is a sample sentence using the word 'toeicword776'."
+  },
+  {
+    "english": "toeicword777",
+    "japanese": "ダミー和訳777",
+    "example": "This is a sample sentence using the word 'toeicword777'."
+  },
+  {
+    "english": "toeicword778",
+    "japanese": "ダミー和訳778",
+    "example": "This is a sample sentence using the word 'toeicword778'."
+  },
+  {
+    "english": "toeicword779",
+    "japanese": "ダミー和訳779",
+    "example": "This is a sample sentence using the word 'toeicword779'."
+  },
+  {
+    "english": "toeicword780",
+    "japanese": "ダミー和訳780",
+    "example": "This is a sample sentence using the word 'toeicword780'."
+  },
+  {
+    "english": "toeicword781",
+    "japanese": "ダミー和訳781",
+    "example": "This is a sample sentence using the word 'toeicword781'."
+  },
+  {
+    "english": "toeicword782",
+    "japanese": "ダミー和訳782",
+    "example": "This is a sample sentence using the word 'toeicword782'."
+  },
+  {
+    "english": "toeicword783",
+    "japanese": "ダミー和訳783",
+    "example": "This is a sample sentence using the word 'toeicword783'."
+  },
+  {
+    "english": "toeicword784",
+    "japanese": "ダミー和訳784",
+    "example": "This is a sample sentence using the word 'toeicword784'."
+  },
+  {
+    "english": "toeicword785",
+    "japanese": "ダミー和訳785",
+    "example": "This is a sample sentence using the word 'toeicword785'."
+  },
+  {
+    "english": "toeicword786",
+    "japanese": "ダミー和訳786",
+    "example": "This is a sample sentence using the word 'toeicword786'."
+  },
+  {
+    "english": "toeicword787",
+    "japanese": "ダミー和訳787",
+    "example": "This is a sample sentence using the word 'toeicword787'."
+  },
+  {
+    "english": "toeicword788",
+    "japanese": "ダミー和訳788",
+    "example": "This is a sample sentence using the word 'toeicword788'."
+  },
+  {
+    "english": "toeicword789",
+    "japanese": "ダミー和訳789",
+    "example": "This is a sample sentence using the word 'toeicword789'."
+  },
+  {
+    "english": "toeicword790",
+    "japanese": "ダミー和訳790",
+    "example": "This is a sample sentence using the word 'toeicword790'."
+  },
+  {
+    "english": "toeicword791",
+    "japanese": "ダミー和訳791",
+    "example": "This is a sample sentence using the word 'toeicword791'."
+  },
+  {
+    "english": "toeicword792",
+    "japanese": "ダミー和訳792",
+    "example": "This is a sample sentence using the word 'toeicword792'."
+  },
+  {
+    "english": "toeicword793",
+    "japanese": "ダミー和訳793",
+    "example": "This is a sample sentence using the word 'toeicword793'."
+  },
+  {
+    "english": "toeicword794",
+    "japanese": "ダミー和訳794",
+    "example": "This is a sample sentence using the word 'toeicword794'."
+  },
+  {
+    "english": "toeicword795",
+    "japanese": "ダミー和訳795",
+    "example": "This is a sample sentence using the word 'toeicword795'."
+  },
+  {
+    "english": "toeicword796",
+    "japanese": "ダミー和訳796",
+    "example": "This is a sample sentence using the word 'toeicword796'."
+  },
+  {
+    "english": "toeicword797",
+    "japanese": "ダミー和訳797",
+    "example": "This is a sample sentence using the word 'toeicword797'."
+  },
+  {
+    "english": "toeicword798",
+    "japanese": "ダミー和訳798",
+    "example": "This is a sample sentence using the word 'toeicword798'."
+  },
+  {
+    "english": "toeicword799",
+    "japanese": "ダミー和訳799",
+    "example": "This is a sample sentence using the word 'toeicword799'."
+  },
+  {
+    "english": "toeicword800",
+    "japanese": "ダミー和訳800",
+    "example": "This is a sample sentence using the word 'toeicword800'."
+  },
+  {
+    "english": "toeicword801",
+    "japanese": "ダミー和訳801",
+    "example": "This is a sample sentence using the word 'toeicword801'."
+  },
+  {
+    "english": "toeicword802",
+    "japanese": "ダミー和訳802",
+    "example": "This is a sample sentence using the word 'toeicword802'."
+  },
+  {
+    "english": "toeicword803",
+    "japanese": "ダミー和訳803",
+    "example": "This is a sample sentence using the word 'toeicword803'."
+  },
+  {
+    "english": "toeicword804",
+    "japanese": "ダミー和訳804",
+    "example": "This is a sample sentence using the word 'toeicword804'."
+  },
+  {
+    "english": "toeicword805",
+    "japanese": "ダミー和訳805",
+    "example": "This is a sample sentence using the word 'toeicword805'."
+  },
+  {
+    "english": "toeicword806",
+    "japanese": "ダミー和訳806",
+    "example": "This is a sample sentence using the word 'toeicword806'."
+  },
+  {
+    "english": "toeicword807",
+    "japanese": "ダミー和訳807",
+    "example": "This is a sample sentence using the word 'toeicword807'."
+  },
+  {
+    "english": "toeicword808",
+    "japanese": "ダミー和訳808",
+    "example": "This is a sample sentence using the word 'toeicword808'."
+  },
+  {
+    "english": "toeicword809",
+    "japanese": "ダミー和訳809",
+    "example": "This is a sample sentence using the word 'toeicword809'."
+  },
+  {
+    "english": "toeicword810",
+    "japanese": "ダミー和訳810",
+    "example": "This is a sample sentence using the word 'toeicword810'."
+  },
+  {
+    "english": "toeicword811",
+    "japanese": "ダミー和訳811",
+    "example": "This is a sample sentence using the word 'toeicword811'."
+  },
+  {
+    "english": "toeicword812",
+    "japanese": "ダミー和訳812",
+    "example": "This is a sample sentence using the word 'toeicword812'."
+  },
+  {
+    "english": "toeicword813",
+    "japanese": "ダミー和訳813",
+    "example": "This is a sample sentence using the word 'toeicword813'."
+  },
+  {
+    "english": "toeicword814",
+    "japanese": "ダミー和訳814",
+    "example": "This is a sample sentence using the word 'toeicword814'."
+  },
+  {
+    "english": "toeicword815",
+    "japanese": "ダミー和訳815",
+    "example": "This is a sample sentence using the word 'toeicword815'."
+  },
+  {
+    "english": "toeicword816",
+    "japanese": "ダミー和訳816",
+    "example": "This is a sample sentence using the word 'toeicword816'."
+  },
+  {
+    "english": "toeicword817",
+    "japanese": "ダミー和訳817",
+    "example": "This is a sample sentence using the word 'toeicword817'."
+  },
+  {
+    "english": "toeicword818",
+    "japanese": "ダミー和訳818",
+    "example": "This is a sample sentence using the word 'toeicword818'."
+  },
+  {
+    "english": "toeicword819",
+    "japanese": "ダミー和訳819",
+    "example": "This is a sample sentence using the word 'toeicword819'."
+  },
+  {
+    "english": "toeicword820",
+    "japanese": "ダミー和訳820",
+    "example": "This is a sample sentence using the word 'toeicword820'."
+  },
+  {
+    "english": "toeicword821",
+    "japanese": "ダミー和訳821",
+    "example": "This is a sample sentence using the word 'toeicword821'."
+  },
+  {
+    "english": "toeicword822",
+    "japanese": "ダミー和訳822",
+    "example": "This is a sample sentence using the word 'toeicword822'."
+  },
+  {
+    "english": "toeicword823",
+    "japanese": "ダミー和訳823",
+    "example": "This is a sample sentence using the word 'toeicword823'."
+  },
+  {
+    "english": "toeicword824",
+    "japanese": "ダミー和訳824",
+    "example": "This is a sample sentence using the word 'toeicword824'."
+  },
+  {
+    "english": "toeicword825",
+    "japanese": "ダミー和訳825",
+    "example": "This is a sample sentence using the word 'toeicword825'."
+  },
+  {
+    "english": "toeicword826",
+    "japanese": "ダミー和訳826",
+    "example": "This is a sample sentence using the word 'toeicword826'."
+  },
+  {
+    "english": "toeicword827",
+    "japanese": "ダミー和訳827",
+    "example": "This is a sample sentence using the word 'toeicword827'."
+  },
+  {
+    "english": "toeicword828",
+    "japanese": "ダミー和訳828",
+    "example": "This is a sample sentence using the word 'toeicword828'."
+  },
+  {
+    "english": "toeicword829",
+    "japanese": "ダミー和訳829",
+    "example": "This is a sample sentence using the word 'toeicword829'."
+  },
+  {
+    "english": "toeicword830",
+    "japanese": "ダミー和訳830",
+    "example": "This is a sample sentence using the word 'toeicword830'."
+  },
+  {
+    "english": "toeicword831",
+    "japanese": "ダミー和訳831",
+    "example": "This is a sample sentence using the word 'toeicword831'."
+  },
+  {
+    "english": "toeicword832",
+    "japanese": "ダミー和訳832",
+    "example": "This is a sample sentence using the word 'toeicword832'."
+  },
+  {
+    "english": "toeicword833",
+    "japanese": "ダミー和訳833",
+    "example": "This is a sample sentence using the word 'toeicword833'."
+  },
+  {
+    "english": "toeicword834",
+    "japanese": "ダミー和訳834",
+    "example": "This is a sample sentence using the word 'toeicword834'."
+  },
+  {
+    "english": "toeicword835",
+    "japanese": "ダミー和訳835",
+    "example": "This is a sample sentence using the word 'toeicword835'."
+  },
+  {
+    "english": "toeicword836",
+    "japanese": "ダミー和訳836",
+    "example": "This is a sample sentence using the word 'toeicword836'."
+  },
+  {
+    "english": "toeicword837",
+    "japanese": "ダミー和訳837",
+    "example": "This is a sample sentence using the word 'toeicword837'."
+  },
+  {
+    "english": "toeicword838",
+    "japanese": "ダミー和訳838",
+    "example": "This is a sample sentence using the word 'toeicword838'."
+  },
+  {
+    "english": "toeicword839",
+    "japanese": "ダミー和訳839",
+    "example": "This is a sample sentence using the word 'toeicword839'."
+  },
+  {
+    "english": "toeicword840",
+    "japanese": "ダミー和訳840",
+    "example": "This is a sample sentence using the word 'toeicword840'."
+  },
+  {
+    "english": "toeicword841",
+    "japanese": "ダミー和訳841",
+    "example": "This is a sample sentence using the word 'toeicword841'."
+  },
+  {
+    "english": "toeicword842",
+    "japanese": "ダミー和訳842",
+    "example": "This is a sample sentence using the word 'toeicword842'."
+  },
+  {
+    "english": "toeicword843",
+    "japanese": "ダミー和訳843",
+    "example": "This is a sample sentence using the word 'toeicword843'."
+  },
+  {
+    "english": "toeicword844",
+    "japanese": "ダミー和訳844",
+    "example": "This is a sample sentence using the word 'toeicword844'."
+  },
+  {
+    "english": "toeicword845",
+    "japanese": "ダミー和訳845",
+    "example": "This is a sample sentence using the word 'toeicword845'."
+  },
+  {
+    "english": "toeicword846",
+    "japanese": "ダミー和訳846",
+    "example": "This is a sample sentence using the word 'toeicword846'."
+  },
+  {
+    "english": "toeicword847",
+    "japanese": "ダミー和訳847",
+    "example": "This is a sample sentence using the word 'toeicword847'."
+  },
+  {
+    "english": "toeicword848",
+    "japanese": "ダミー和訳848",
+    "example": "This is a sample sentence using the word 'toeicword848'."
+  },
+  {
+    "english": "toeicword849",
+    "japanese": "ダミー和訳849",
+    "example": "This is a sample sentence using the word 'toeicword849'."
+  },
+  {
+    "english": "toeicword850",
+    "japanese": "ダミー和訳850",
+    "example": "This is a sample sentence using the word 'toeicword850'."
+  },
+  {
+    "english": "toeicword851",
+    "japanese": "ダミー和訳851",
+    "example": "This is a sample sentence using the word 'toeicword851'."
+  },
+  {
+    "english": "toeicword852",
+    "japanese": "ダミー和訳852",
+    "example": "This is a sample sentence using the word 'toeicword852'."
+  },
+  {
+    "english": "toeicword853",
+    "japanese": "ダミー和訳853",
+    "example": "This is a sample sentence using the word 'toeicword853'."
+  },
+  {
+    "english": "toeicword854",
+    "japanese": "ダミー和訳854",
+    "example": "This is a sample sentence using the word 'toeicword854'."
+  },
+  {
+    "english": "toeicword855",
+    "japanese": "ダミー和訳855",
+    "example": "This is a sample sentence using the word 'toeicword855'."
+  },
+  {
+    "english": "toeicword856",
+    "japanese": "ダミー和訳856",
+    "example": "This is a sample sentence using the word 'toeicword856'."
+  },
+  {
+    "english": "toeicword857",
+    "japanese": "ダミー和訳857",
+    "example": "This is a sample sentence using the word 'toeicword857'."
+  },
+  {
+    "english": "toeicword858",
+    "japanese": "ダミー和訳858",
+    "example": "This is a sample sentence using the word 'toeicword858'."
+  },
+  {
+    "english": "toeicword859",
+    "japanese": "ダミー和訳859",
+    "example": "This is a sample sentence using the word 'toeicword859'."
+  },
+  {
+    "english": "toeicword860",
+    "japanese": "ダミー和訳860",
+    "example": "This is a sample sentence using the word 'toeicword860'."
+  },
+  {
+    "english": "toeicword861",
+    "japanese": "ダミー和訳861",
+    "example": "This is a sample sentence using the word 'toeicword861'."
+  },
+  {
+    "english": "toeicword862",
+    "japanese": "ダミー和訳862",
+    "example": "This is a sample sentence using the word 'toeicword862'."
+  },
+  {
+    "english": "toeicword863",
+    "japanese": "ダミー和訳863",
+    "example": "This is a sample sentence using the word 'toeicword863'."
+  },
+  {
+    "english": "toeicword864",
+    "japanese": "ダミー和訳864",
+    "example": "This is a sample sentence using the word 'toeicword864'."
+  },
+  {
+    "english": "toeicword865",
+    "japanese": "ダミー和訳865",
+    "example": "This is a sample sentence using the word 'toeicword865'."
+  },
+  {
+    "english": "toeicword866",
+    "japanese": "ダミー和訳866",
+    "example": "This is a sample sentence using the word 'toeicword866'."
+  },
+  {
+    "english": "toeicword867",
+    "japanese": "ダミー和訳867",
+    "example": "This is a sample sentence using the word 'toeicword867'."
+  },
+  {
+    "english": "toeicword868",
+    "japanese": "ダミー和訳868",
+    "example": "This is a sample sentence using the word 'toeicword868'."
+  },
+  {
+    "english": "toeicword869",
+    "japanese": "ダミー和訳869",
+    "example": "This is a sample sentence using the word 'toeicword869'."
+  },
+  {
+    "english": "toeicword870",
+    "japanese": "ダミー和訳870",
+    "example": "This is a sample sentence using the word 'toeicword870'."
+  },
+  {
+    "english": "toeicword871",
+    "japanese": "ダミー和訳871",
+    "example": "This is a sample sentence using the word 'toeicword871'."
+  },
+  {
+    "english": "toeicword872",
+    "japanese": "ダミー和訳872",
+    "example": "This is a sample sentence using the word 'toeicword872'."
+  },
+  {
+    "english": "toeicword873",
+    "japanese": "ダミー和訳873",
+    "example": "This is a sample sentence using the word 'toeicword873'."
+  },
+  {
+    "english": "toeicword874",
+    "japanese": "ダミー和訳874",
+    "example": "This is a sample sentence using the word 'toeicword874'."
+  },
+  {
+    "english": "toeicword875",
+    "japanese": "ダミー和訳875",
+    "example": "This is a sample sentence using the word 'toeicword875'."
+  },
+  {
+    "english": "toeicword876",
+    "japanese": "ダミー和訳876",
+    "example": "This is a sample sentence using the word 'toeicword876'."
+  },
+  {
+    "english": "toeicword877",
+    "japanese": "ダミー和訳877",
+    "example": "This is a sample sentence using the word 'toeicword877'."
+  },
+  {
+    "english": "toeicword878",
+    "japanese": "ダミー和訳878",
+    "example": "This is a sample sentence using the word 'toeicword878'."
+  },
+  {
+    "english": "toeicword879",
+    "japanese": "ダミー和訳879",
+    "example": "This is a sample sentence using the word 'toeicword879'."
+  },
+  {
+    "english": "toeicword880",
+    "japanese": "ダミー和訳880",
+    "example": "This is a sample sentence using the word 'toeicword880'."
+  },
+  {
+    "english": "toeicword881",
+    "japanese": "ダミー和訳881",
+    "example": "This is a sample sentence using the word 'toeicword881'."
+  },
+  {
+    "english": "toeicword882",
+    "japanese": "ダミー和訳882",
+    "example": "This is a sample sentence using the word 'toeicword882'."
+  },
+  {
+    "english": "toeicword883",
+    "japanese": "ダミー和訳883",
+    "example": "This is a sample sentence using the word 'toeicword883'."
+  },
+  {
+    "english": "toeicword884",
+    "japanese": "ダミー和訳884",
+    "example": "This is a sample sentence using the word 'toeicword884'."
+  },
+  {
+    "english": "toeicword885",
+    "japanese": "ダミー和訳885",
+    "example": "This is a sample sentence using the word 'toeicword885'."
+  },
+  {
+    "english": "toeicword886",
+    "japanese": "ダミー和訳886",
+    "example": "This is a sample sentence using the word 'toeicword886'."
+  },
+  {
+    "english": "toeicword887",
+    "japanese": "ダミー和訳887",
+    "example": "This is a sample sentence using the word 'toeicword887'."
+  },
+  {
+    "english": "toeicword888",
+    "japanese": "ダミー和訳888",
+    "example": "This is a sample sentence using the word 'toeicword888'."
+  },
+  {
+    "english": "toeicword889",
+    "japanese": "ダミー和訳889",
+    "example": "This is a sample sentence using the word 'toeicword889'."
+  },
+  {
+    "english": "toeicword890",
+    "japanese": "ダミー和訳890",
+    "example": "This is a sample sentence using the word 'toeicword890'."
+  },
+  {
+    "english": "toeicword891",
+    "japanese": "ダミー和訳891",
+    "example": "This is a sample sentence using the word 'toeicword891'."
+  },
+  {
+    "english": "toeicword892",
+    "japanese": "ダミー和訳892",
+    "example": "This is a sample sentence using the word 'toeicword892'."
+  },
+  {
+    "english": "toeicword893",
+    "japanese": "ダミー和訳893",
+    "example": "This is a sample sentence using the word 'toeicword893'."
+  },
+  {
+    "english": "toeicword894",
+    "japanese": "ダミー和訳894",
+    "example": "This is a sample sentence using the word 'toeicword894'."
+  },
+  {
+    "english": "toeicword895",
+    "japanese": "ダミー和訳895",
+    "example": "This is a sample sentence using the word 'toeicword895'."
+  },
+  {
+    "english": "toeicword896",
+    "japanese": "ダミー和訳896",
+    "example": "This is a sample sentence using the word 'toeicword896'."
+  },
+  {
+    "english": "toeicword897",
+    "japanese": "ダミー和訳897",
+    "example": "This is a sample sentence using the word 'toeicword897'."
+  },
+  {
+    "english": "toeicword898",
+    "japanese": "ダミー和訳898",
+    "example": "This is a sample sentence using the word 'toeicword898'."
+  },
+  {
+    "english": "toeicword899",
+    "japanese": "ダミー和訳899",
+    "example": "This is a sample sentence using the word 'toeicword899'."
+  },
+  {
+    "english": "toeicword900",
+    "japanese": "ダミー和訳900",
+    "example": "This is a sample sentence using the word 'toeicword900'."
+  },
+  {
+    "english": "toeicword901",
+    "japanese": "ダミー和訳901",
+    "example": "This is a sample sentence using the word 'toeicword901'."
+  },
+  {
+    "english": "toeicword902",
+    "japanese": "ダミー和訳902",
+    "example": "This is a sample sentence using the word 'toeicword902'."
+  },
+  {
+    "english": "toeicword903",
+    "japanese": "ダミー和訳903",
+    "example": "This is a sample sentence using the word 'toeicword903'."
+  },
+  {
+    "english": "toeicword904",
+    "japanese": "ダミー和訳904",
+    "example": "This is a sample sentence using the word 'toeicword904'."
+  },
+  {
+    "english": "toeicword905",
+    "japanese": "ダミー和訳905",
+    "example": "This is a sample sentence using the word 'toeicword905'."
+  },
+  {
+    "english": "toeicword906",
+    "japanese": "ダミー和訳906",
+    "example": "This is a sample sentence using the word 'toeicword906'."
+  },
+  {
+    "english": "toeicword907",
+    "japanese": "ダミー和訳907",
+    "example": "This is a sample sentence using the word 'toeicword907'."
+  },
+  {
+    "english": "toeicword908",
+    "japanese": "ダミー和訳908",
+    "example": "This is a sample sentence using the word 'toeicword908'."
+  },
+  {
+    "english": "toeicword909",
+    "japanese": "ダミー和訳909",
+    "example": "This is a sample sentence using the word 'toeicword909'."
+  },
+  {
+    "english": "toeicword910",
+    "japanese": "ダミー和訳910",
+    "example": "This is a sample sentence using the word 'toeicword910'."
+  },
+  {
+    "english": "toeicword911",
+    "japanese": "ダミー和訳911",
+    "example": "This is a sample sentence using the word 'toeicword911'."
+  },
+  {
+    "english": "toeicword912",
+    "japanese": "ダミー和訳912",
+    "example": "This is a sample sentence using the word 'toeicword912'."
+  },
+  {
+    "english": "toeicword913",
+    "japanese": "ダミー和訳913",
+    "example": "This is a sample sentence using the word 'toeicword913'."
+  },
+  {
+    "english": "toeicword914",
+    "japanese": "ダミー和訳914",
+    "example": "This is a sample sentence using the word 'toeicword914'."
+  },
+  {
+    "english": "toeicword915",
+    "japanese": "ダミー和訳915",
+    "example": "This is a sample sentence using the word 'toeicword915'."
+  },
+  {
+    "english": "toeicword916",
+    "japanese": "ダミー和訳916",
+    "example": "This is a sample sentence using the word 'toeicword916'."
+  },
+  {
+    "english": "toeicword917",
+    "japanese": "ダミー和訳917",
+    "example": "This is a sample sentence using the word 'toeicword917'."
+  },
+  {
+    "english": "toeicword918",
+    "japanese": "ダミー和訳918",
+    "example": "This is a sample sentence using the word 'toeicword918'."
+  },
+  {
+    "english": "toeicword919",
+    "japanese": "ダミー和訳919",
+    "example": "This is a sample sentence using the word 'toeicword919'."
+  },
+  {
+    "english": "toeicword920",
+    "japanese": "ダミー和訳920",
+    "example": "This is a sample sentence using the word 'toeicword920'."
+  },
+  {
+    "english": "toeicword921",
+    "japanese": "ダミー和訳921",
+    "example": "This is a sample sentence using the word 'toeicword921'."
+  },
+  {
+    "english": "toeicword922",
+    "japanese": "ダミー和訳922",
+    "example": "This is a sample sentence using the word 'toeicword922'."
+  },
+  {
+    "english": "toeicword923",
+    "japanese": "ダミー和訳923",
+    "example": "This is a sample sentence using the word 'toeicword923'."
+  },
+  {
+    "english": "toeicword924",
+    "japanese": "ダミー和訳924",
+    "example": "This is a sample sentence using the word 'toeicword924'."
+  },
+  {
+    "english": "toeicword925",
+    "japanese": "ダミー和訳925",
+    "example": "This is a sample sentence using the word 'toeicword925'."
+  },
+  {
+    "english": "toeicword926",
+    "japanese": "ダミー和訳926",
+    "example": "This is a sample sentence using the word 'toeicword926'."
+  },
+  {
+    "english": "toeicword927",
+    "japanese": "ダミー和訳927",
+    "example": "This is a sample sentence using the word 'toeicword927'."
+  },
+  {
+    "english": "toeicword928",
+    "japanese": "ダミー和訳928",
+    "example": "This is a sample sentence using the word 'toeicword928'."
+  },
+  {
+    "english": "toeicword929",
+    "japanese": "ダミー和訳929",
+    "example": "This is a sample sentence using the word 'toeicword929'."
+  },
+  {
+    "english": "toeicword930",
+    "japanese": "ダミー和訳930",
+    "example": "This is a sample sentence using the word 'toeicword930'."
+  },
+  {
+    "english": "toeicword931",
+    "japanese": "ダミー和訳931",
+    "example": "This is a sample sentence using the word 'toeicword931'."
+  },
+  {
+    "english": "toeicword932",
+    "japanese": "ダミー和訳932",
+    "example": "This is a sample sentence using the word 'toeicword932'."
+  },
+  {
+    "english": "toeicword933",
+    "japanese": "ダミー和訳933",
+    "example": "This is a sample sentence using the word 'toeicword933'."
+  },
+  {
+    "english": "toeicword934",
+    "japanese": "ダミー和訳934",
+    "example": "This is a sample sentence using the word 'toeicword934'."
+  },
+  {
+    "english": "toeicword935",
+    "japanese": "ダミー和訳935",
+    "example": "This is a sample sentence using the word 'toeicword935'."
+  },
+  {
+    "english": "toeicword936",
+    "japanese": "ダミー和訳936",
+    "example": "This is a sample sentence using the word 'toeicword936'."
+  },
+  {
+    "english": "toeicword937",
+    "japanese": "ダミー和訳937",
+    "example": "This is a sample sentence using the word 'toeicword937'."
+  },
+  {
+    "english": "toeicword938",
+    "japanese": "ダミー和訳938",
+    "example": "This is a sample sentence using the word 'toeicword938'."
+  },
+  {
+    "english": "toeicword939",
+    "japanese": "ダミー和訳939",
+    "example": "This is a sample sentence using the word 'toeicword939'."
+  },
+  {
+    "english": "toeicword940",
+    "japanese": "ダミー和訳940",
+    "example": "This is a sample sentence using the word 'toeicword940'."
+  },
+  {
+    "english": "toeicword941",
+    "japanese": "ダミー和訳941",
+    "example": "This is a sample sentence using the word 'toeicword941'."
+  },
+  {
+    "english": "toeicword942",
+    "japanese": "ダミー和訳942",
+    "example": "This is a sample sentence using the word 'toeicword942'."
+  },
+  {
+    "english": "toeicword943",
+    "japanese": "ダミー和訳943",
+    "example": "This is a sample sentence using the word 'toeicword943'."
+  },
+  {
+    "english": "toeicword944",
+    "japanese": "ダミー和訳944",
+    "example": "This is a sample sentence using the word 'toeicword944'."
+  },
+  {
+    "english": "toeicword945",
+    "japanese": "ダミー和訳945",
+    "example": "This is a sample sentence using the word 'toeicword945'."
+  },
+  {
+    "english": "toeicword946",
+    "japanese": "ダミー和訳946",
+    "example": "This is a sample sentence using the word 'toeicword946'."
+  },
+  {
+    "english": "toeicword947",
+    "japanese": "ダミー和訳947",
+    "example": "This is a sample sentence using the word 'toeicword947'."
+  },
+  {
+    "english": "toeicword948",
+    "japanese": "ダミー和訳948",
+    "example": "This is a sample sentence using the word 'toeicword948'."
+  },
+  {
+    "english": "toeicword949",
+    "japanese": "ダミー和訳949",
+    "example": "This is a sample sentence using the word 'toeicword949'."
+  },
+  {
+    "english": "toeicword950",
+    "japanese": "ダミー和訳950",
+    "example": "This is a sample sentence using the word 'toeicword950'."
+  },
+  {
+    "english": "toeicword951",
+    "japanese": "ダミー和訳951",
+    "example": "This is a sample sentence using the word 'toeicword951'."
+  },
+  {
+    "english": "toeicword952",
+    "japanese": "ダミー和訳952",
+    "example": "This is a sample sentence using the word 'toeicword952'."
+  },
+  {
+    "english": "toeicword953",
+    "japanese": "ダミー和訳953",
+    "example": "This is a sample sentence using the word 'toeicword953'."
+  },
+  {
+    "english": "toeicword954",
+    "japanese": "ダミー和訳954",
+    "example": "This is a sample sentence using the word 'toeicword954'."
+  },
+  {
+    "english": "toeicword955",
+    "japanese": "ダミー和訳955",
+    "example": "This is a sample sentence using the word 'toeicword955'."
+  },
+  {
+    "english": "toeicword956",
+    "japanese": "ダミー和訳956",
+    "example": "This is a sample sentence using the word 'toeicword956'."
+  },
+  {
+    "english": "toeicword957",
+    "japanese": "ダミー和訳957",
+    "example": "This is a sample sentence using the word 'toeicword957'."
+  },
+  {
+    "english": "toeicword958",
+    "japanese": "ダミー和訳958",
+    "example": "This is a sample sentence using the word 'toeicword958'."
+  },
+  {
+    "english": "toeicword959",
+    "japanese": "ダミー和訳959",
+    "example": "This is a sample sentence using the word 'toeicword959'."
+  },
+  {
+    "english": "toeicword960",
+    "japanese": "ダミー和訳960",
+    "example": "This is a sample sentence using the word 'toeicword960'."
+  },
+  {
+    "english": "toeicword961",
+    "japanese": "ダミー和訳961",
+    "example": "This is a sample sentence using the word 'toeicword961'."
+  },
+  {
+    "english": "toeicword962",
+    "japanese": "ダミー和訳962",
+    "example": "This is a sample sentence using the word 'toeicword962'."
+  },
+  {
+    "english": "toeicword963",
+    "japanese": "ダミー和訳963",
+    "example": "This is a sample sentence using the word 'toeicword963'."
+  },
+  {
+    "english": "toeicword964",
+    "japanese": "ダミー和訳964",
+    "example": "This is a sample sentence using the word 'toeicword964'."
+  },
+  {
+    "english": "toeicword965",
+    "japanese": "ダミー和訳965",
+    "example": "This is a sample sentence using the word 'toeicword965'."
+  },
+  {
+    "english": "toeicword966",
+    "japanese": "ダミー和訳966",
+    "example": "This is a sample sentence using the word 'toeicword966'."
+  },
+  {
+    "english": "toeicword967",
+    "japanese": "ダミー和訳967",
+    "example": "This is a sample sentence using the word 'toeicword967'."
+  },
+  {
+    "english": "toeicword968",
+    "japanese": "ダミー和訳968",
+    "example": "This is a sample sentence using the word 'toeicword968'."
+  },
+  {
+    "english": "toeicword969",
+    "japanese": "ダミー和訳969",
+    "example": "This is a sample sentence using the word 'toeicword969'."
+  },
+  {
+    "english": "toeicword970",
+    "japanese": "ダミー和訳970",
+    "example": "This is a sample sentence using the word 'toeicword970'."
+  },
+  {
+    "english": "toeicword971",
+    "japanese": "ダミー和訳971",
+    "example": "This is a sample sentence using the word 'toeicword971'."
+  },
+  {
+    "english": "toeicword972",
+    "japanese": "ダミー和訳972",
+    "example": "This is a sample sentence using the word 'toeicword972'."
+  },
+  {
+    "english": "toeicword973",
+    "japanese": "ダミー和訳973",
+    "example": "This is a sample sentence using the word 'toeicword973'."
+  },
+  {
+    "english": "toeicword974",
+    "japanese": "ダミー和訳974",
+    "example": "This is a sample sentence using the word 'toeicword974'."
+  },
+  {
+    "english": "toeicword975",
+    "japanese": "ダミー和訳975",
+    "example": "This is a sample sentence using the word 'toeicword975'."
+  },
+  {
+    "english": "toeicword976",
+    "japanese": "ダミー和訳976",
+    "example": "This is a sample sentence using the word 'toeicword976'."
+  },
+  {
+    "english": "toeicword977",
+    "japanese": "ダミー和訳977",
+    "example": "This is a sample sentence using the word 'toeicword977'."
+  },
+  {
+    "english": "toeicword978",
+    "japanese": "ダミー和訳978",
+    "example": "This is a sample sentence using the word 'toeicword978'."
+  },
+  {
+    "english": "toeicword979",
+    "japanese": "ダミー和訳979",
+    "example": "This is a sample sentence using the word 'toeicword979'."
+  },
+  {
+    "english": "toeicword980",
+    "japanese": "ダミー和訳980",
+    "example": "This is a sample sentence using the word 'toeicword980'."
+  },
+  {
+    "english": "toeicword981",
+    "japanese": "ダミー和訳981",
+    "example": "This is a sample sentence using the word 'toeicword981'."
+  },
+  {
+    "english": "toeicword982",
+    "japanese": "ダミー和訳982",
+    "example": "This is a sample sentence using the word 'toeicword982'."
+  },
+  {
+    "english": "toeicword983",
+    "japanese": "ダミー和訳983",
+    "example": "This is a sample sentence using the word 'toeicword983'."
+  },
+  {
+    "english": "toeicword984",
+    "japanese": "ダミー和訳984",
+    "example": "This is a sample sentence using the word 'toeicword984'."
+  },
+  {
+    "english": "toeicword985",
+    "japanese": "ダミー和訳985",
+    "example": "This is a sample sentence using the word 'toeicword985'."
+  },
+  {
+    "english": "toeicword986",
+    "japanese": "ダミー和訳986",
+    "example": "This is a sample sentence using the word 'toeicword986'."
+  },
+  {
+    "english": "toeicword987",
+    "japanese": "ダミー和訳987",
+    "example": "This is a sample sentence using the word 'toeicword987'."
+  },
+  {
+    "english": "toeicword988",
+    "japanese": "ダミー和訳988",
+    "example": "This is a sample sentence using the word 'toeicword988'."
+  },
+  {
+    "english": "toeicword989",
+    "japanese": "ダミー和訳989",
+    "example": "This is a sample sentence using the word 'toeicword989'."
+  },
+  {
+    "english": "toeicword990",
+    "japanese": "ダミー和訳990",
+    "example": "This is a sample sentence using the word 'toeicword990'."
+  },
+  {
+    "english": "toeicword991",
+    "japanese": "ダミー和訳991",
+    "example": "This is a sample sentence using the word 'toeicword991'."
+  },
+  {
+    "english": "toeicword992",
+    "japanese": "ダミー和訳992",
+    "example": "This is a sample sentence using the word 'toeicword992'."
+  },
+  {
+    "english": "toeicword993",
+    "japanese": "ダミー和訳993",
+    "example": "This is a sample sentence using the word 'toeicword993'."
+  },
+  {
+    "english": "toeicword994",
+    "japanese": "ダミー和訳994",
+    "example": "This is a sample sentence using the word 'toeicword994'."
+  },
+  {
+    "english": "toeicword995",
+    "japanese": "ダミー和訳995",
+    "example": "This is a sample sentence using the word 'toeicword995'."
+  },
+  {
+    "english": "toeicword996",
+    "japanese": "ダミー和訳996",
+    "example": "This is a sample sentence using the word 'toeicword996'."
+  },
+  {
+    "english": "toeicword997",
+    "japanese": "ダミー和訳997",
+    "example": "This is a sample sentence using the word 'toeicword997'."
+  },
+  {
+    "english": "toeicword998",
+    "japanese": "ダミー和訳998",
+    "example": "This is a sample sentence using the word 'toeicword998'."
+  },
+  {
+    "english": "toeicword999",
+    "japanese": "ダミー和訳999",
+    "example": "This is a sample sentence using the word 'toeicword999'."
+  },
+  {
+    "english": "toeicword1000",
+    "japanese": "ダミー和訳1000",
+    "example": "This is a sample sentence using the word 'toeicword1000'."
+  }
+]

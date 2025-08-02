@@ -10,7 +10,7 @@ type Props = {
 export default function SlideMenu({ currentCategory, onSelect} : Props){
   const [ isOpen, setIsOpen] = useState(false);
 
-  const categories = ["basic", "intermediate", "idioms"]
+  const categories = ["basic", "intermediate", "idioms","TOEIC"]
 
   return(
      <div>
@@ -58,7 +58,5 @@ export default function SlideMenu({ currentCategory, onSelect} : Props){
           </div>
         </div>
       </div>
-
   )
-
 }
